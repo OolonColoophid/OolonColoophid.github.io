@@ -1,56 +1,118 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Volunteer Registration Form</title>
-</head>
-<body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Volunteer Registration Form</title>
+    </head>
+    <body>
+        <header>
+            <h1>Tregony Repair Café: Volunteer Registration Form</h1>
+        </header>
 
-<h2>Volunteer Registration Form</h2>
+        <div class="form-container">
+            <form action="mailto:contact@tregonyrepaircafe.org?subject=Volunteer%20Registration" method="post" enctype="text/plain">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name">
 
-<form action="mailto:contact@tregonyrepaircafe.org" method="post" enctype="text/plain">
-    <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name"><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email">
 
-    <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email"><br>
+                <p>Please complete the next question if you'd prefer to volunteer in general (not as a repairer).</p>
 
-    <label for="generalDIY">General DIY and Repair Skills:</label><br>
-    <input type="radio" id="diy1" name="generalDIY" value="Novice"> Novice
-    <input type="radio" id="diy2" name="generalDIY" value="Beginner"> Beginner
-    <input type="radio" id="diy3" name="generalDIY" value="Intermediate"> Intermediate
-    <input type="radio" id="diy4" name="generalDIY" value="Advanced"> Advanced
-    <input type="radio" id="diy5" name="generalDIY" value="Expert"> Expert<br>
+                <label>General Administration</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="admin1" name="generalAdmin" value="Not Interested"><label for="admin1">Not Interested</label></td>
+                        <td><input type="radio" id="admin2" name="generalAdmin" value="Slightly Interested"><label for="admin2">Slightly Interested</label></td>
+                        <td><input type="radio" id="admin3" name="generalAdmin" value="Moderately Interested"><label for="admin3">Moderately Interested</label></td>
+                        <td><input type="radio" id="admin4" name="generalAdmin" value="Very Interested"><label for="admin4">Very Interested</label></td>
+                        <td><input type="radio" id="admin5" name="generalAdmin" value="Extremely Interested"><label for="admin5">Extremely Interested</label></td>
+                    </tr>
+                </table>
 
-    <label for="electricalRepair">Electrical and Electronics Repair:</label><br>
-    <input type="radio" id="electrical1" name="electricalRepair" value="Not Confident"> Not Confident
-    <input type="radio" id="electrical2" name="electricalRepair" value="Slightly Confident"> Slightly Confident
-    <input type="radio" id="electrical3" name="electricalRepair" value="Moderately Confident"> Moderately Confident
-    <input type="radio" id="electrical4" name="electricalRepair" value="Very Confident"> Very Confident
-    <input type="radio" id="electrical5" name="electricalRepair" value="Extremely Confident"> Extremely Confident<br>
+                <label>Meeting and Greeting People</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="interaction1" name="customerInteraction" value="Not Comfortable"><label for="interaction1">Not Comfortable</label></td>
+                        <td><input type="radio" id="interaction2" name="customerInteraction" value="Slightly Comfortable"><label for="interaction2">Slightly Comfortable</label></td>
+                        <td><input type="radio" id="interaction3" name="customerInteraction" value="Moderately Comfortable"><label for="interaction3">Moderately Comfortable</label></td>
+                        <td><input type="radio" id="interaction4" name="customerInteraction" value="Very Comfortable"><label for="interaction4">Very Comfortable</label></td>
+                        <td><input type="radio" id="interaction5" name="customerInteraction" value="Extremely Comfortable"><label for="interaction5">Extremely Comfortable</label></td>
+                    </tr>
+                </table>
 
-    <label for="textileToyRepair">Textile and Toy Repair:</label><br>
-    <input type="radio" id="textile1" name="textileToyRepair" value="Novice"> Novice
-    <input type="radio" id="textile2" name="textileToyRepair" value="Beginner"> Beginner
-    <input type="radio" id="textile3" name="textileToyRepair" value="Intermediate"> Intermediate
-    <input type="radio" id="textile4" name="textileToyRepair" value="Advanced"> Advanced
-    <input type="radio" id="textile5" name="textileToyRepair" value="Expert"> Expert<br>
+                <hr />
 
-    <label for="bicycleRepair">Bicycle and Mechanical Repair:</label><br>
-    <input type="radio" id="bicycle1" name="bicycleRepair" value="Not Skilled"> Not Skilled
-    <input type="radio" id="bicycle2" name="bicycleRepair" value="Slightly Skilled"> Slightly Skilled
-    <input type="radio" id="bicycle3" name="bicycleRepair" value="Moderately Skilled"> Moderately Skilled
-    <input type="radio" id="bicycle4" name="bicycleRepair" value="Very Skilled"> Very Skilled
-    <input type="radio" id="bicycle5" name="bicycleRepair" value="Extremely Skilled"> Extremely Skilled<br>
+                <p>Please complete the following questions if you would like to help repair items.</p>
 
-    <label for="customerInteraction">Customer Interaction and Teaching:</label><br>
-    <input type="radio" id="interaction1" name="customerInteraction" value="Not Comfortable"> Not Comfortable
-    <input type="radio" id="interaction2" name="customerInteraction" value="Slightly Comfortable"> Slightly Comfortable
-    <input type="radio" id="interaction3" name="customerInteraction" value="Moderately Comfortable"> Moderately Comfortable
-    <input type="radio" id="interaction4" name="customerInteraction" value="Very Comfortable"> Very Comfortable
-    <input type="radio" id="interaction5" name="customerInteraction" value="Extremely Comfortable"> Extremely Comfortable<br>
+                <label>General DIY and Repair Skills:</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="diy0" name="generalDIY" value="Not Applicable"><label for="diy0">Not Applicable</label></td>
+                        <td><input type="radio" id="diy1" name="generalDIY" value="Novice"><label for="diy1">Novice</label></td>
+                        <td><input type="radio" id="diy2" name="generalDIY" value="Beginner"><label for="diy2">Beginner</label></td>
+                        <td><input type="radio" id="diy3" name="generalDIY" value="Intermediate"><label for="diy3">Intermediate</label></td>
+                        <td><input type="radio" id="diy4" name="generalDIY" value="Advanced"><label for="diy4">Advanced</label></td>
+                        <td><input type="radio" id="diy5" name="generalDIY" value="Expert"><label for="diy5">Expert</label></td>
+                    </tr>
+                </table>
 
-    <input type="submit" value="Submit">
-</form> 
+                <label>Electrical and Electronics Repair:</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="electrical0" name="electricalRepair" value="Not Applicable"><label for="electrical0">Not Applicable</label></td>
+                        <td><input type="radio" id="electrical1" name="electricalRepair" value="Not Confident"><label for="electrical1">Not Confident</label></td>
+                        <td><input type="radio" id="electrical2" name="electricalRepair" value="Slightly Confident"><label for="electrical2">Slightly Confident</label></td>
+                        <td><input type="radio" id="electrical3" name="electricalRepair" value="Moderately Confident"><label for="electrical3">Moderately Confident</label></td>
+                        <td><input type="radio" id="electrical4" name="electricalRepair" value="Very Confident"><label for="electrical4">Very Confident</label></td>
+                        <td><input type="radio" id="electrical5" name="electricalRepair" value="Extremely Confident"><label for="electrical5">Extremely Confident</label></td>
+                    </tr>
+                </table>
 
-</body>
+                <label>Textile and Toy Repair:</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="textile0" name="textileToyRepair" value="Not Applicable"><label for="textile0">Not Applicable</label></td>
+                        <td><input type="radio" id="textile1" name="textileToyRepair" value="Novice"><label for="textile1">Novice</label></td>
+                        <td><input type="radio" id="textile2" name="textileToyRepair" value="Beginner"><label for="textile2">Beginner</label></td>
+                        <td><input type="radio" id="textile3" name="textileToyRepair" value="Intermediate"><label for="textile3">Intermediate</label></td>
+                        <td><input type="radio" id="textile4" name="textileToyRepair" value="Advanced"><label for="textile4">Advanced</label></td>
+                        <td><input type="radio" id="textile5" name="textileToyRepair" value="Expert"><label for="textile5">Expert</label></td>
+                    </tr>
+                </table>
+
+                <label>Mechanical Repair:</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="bicycle0" name="bicycleRepair" value="Not Applicable"><label for="bicycle0">Not Applicable</label></td>
+                        <td><input type="radio" id="bicycle1" name="bicycleRepair" value="Not Skilled"><label for="bicycle1">Not Skilled</label></td>
+                        <td><input type="radio" id="bicycle2" name="bicycleRepair" value="Slightly Skilled"><label for="bicycle2">Slightly Skilled</label></td>
+                        <td><input type="radio" id="bicycle3" name="bicycleRepair" value="Moderately Skilled"><label for="bicycle3">Moderately Skilled</label></td>
+                        <td><input type="radio" id="bicycle4" name="bicycleRepair" value="Very Skilled"><label for="bicycle4">Very Skilled</label></td>
+                        <td><input type="radio" id="bicycle5" name="bicycleRepair" value="Extremely Skilled"><label for="bicycle5">Extremely Skilled</label></td>
+                    </tr>
+                </table>
+
+                    <p>Your data will be held in accordance with the General Data Protection Regulation (GDPR).</p>
+                    <ul>
+                        <li>Your personal information is protected under law.</li>
+                        <li>We use it fairly, legally, and transparently.</li>
+                        <li>You have the right to access, correct, or delete your data.</li>
+                        <li>We ensure strong data security.</li>
+                    </ul>
+
+                    <input type="submit" value="Submit via Email" class="submit-button">
+            </form>
+
+        </div>
+
+        <footer>
+            <p><a href="index.html">Back to Home</a></p>
+        </footer>
+
+    </body>
+
+
 </html>
