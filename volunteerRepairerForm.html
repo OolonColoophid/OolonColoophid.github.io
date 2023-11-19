@@ -14,96 +14,133 @@
         <div class="form-container">
             <form action="mailto:contact@tregonyrepaircafe.org?subject=Volunteer%20Registration" method="post" enctype="text/plain">
                 <label for="name">Name:</label>
-                <input type="text" id="name" name="name">
+                <input type="text" id="name" name="name" required placeholder="Enter your full name (required)">
 
                 <label for="email">Email:</label>
-                <input type="email" id="email" name="email">
+                <input type="email" id="email" name="email" required placeholder="Enter your email address (required)">
 
-                <p>Please complete the next question if you'd prefer to volunteer in general (not as a repairer).</p>
+                <p>If you would like to help out with administration, please indicate which of the following applies:</p>
 
-                <label>General Administration</label>
+                <label>General Administration Skills</label>
                 <table>
                     <tr>
-                        <td><input type="radio" id="admin1" name="generalAdmin" value="Not Interested"><label for="admin1">Not Interested</label></td>
-                        <td><input type="radio" id="admin2" name="generalAdmin" value="Slightly Interested"><label for="admin2">Slightly Interested</label></td>
-                        <td><input type="radio" id="admin3" name="generalAdmin" value="Moderately Interested"><label for="admin3">Moderately Interested</label></td>
-                        <td><input type="radio" id="admin4" name="generalAdmin" value="Very Interested"><label for="admin4">Very Interested</label></td>
-                        <td><input type="radio" id="admin5" name="generalAdmin" value="Extremely Interested"><label for="admin5">Extremely Interested</label></td>
+                        <td><input type="radio" id="adminYes" name="generalAdmin" value="Yes"><label for="adminYes">Yes</label></td>
+                        <td><input type="radio" id="adminNo" name="generalAdmin" value="No"><label for="adminNo">No</label></td>
+                        <td><input type="radio" id="adminNA" name="generalAdmin" value="N/A" checked><label for="adminNA">N/A</label></td>
                     </tr>
                 </table>
 
-                <label>Meeting and Greeting People</label>
+                <label>Meeting and Greeting People Skills</label>
                 <table>
                     <tr>
-                        <td><input type="radio" id="interaction1" name="customerInteraction" value="Not Comfortable"><label for="interaction1">Not Comfortable</label></td>
-                        <td><input type="radio" id="interaction2" name="customerInteraction" value="Slightly Comfortable"><label for="interaction2">Slightly Comfortable</label></td>
-                        <td><input type="radio" id="interaction3" name="customerInteraction" value="Moderately Comfortable"><label for="interaction3">Moderately Comfortable</label></td>
-                        <td><input type="radio" id="interaction4" name="customerInteraction" value="Very Comfortable"><label for="interaction4">Very Comfortable</label></td>
-                        <td><input type="radio" id="interaction5" name="customerInteraction" value="Extremely Comfortable"><label for="interaction5">Extremely Comfortable</label></td>
+                        <td><input type="radio" id="interactionYes" name="customerInteraction" value="Yes"><label for="interactionYes">Yes</label></td>
+                        <td><input type="radio" id="interactionNo" name="customerInteraction" value="No"><label for="interactionNo">No</label></td>
+                        <td><input type="radio" id="interactionNA" name="customerInteraction" value="N/A" checked><label for="interactionNA">N/A</label></td>
                     </tr>
                 </table>
 
                 <hr />
 
-                <p>Please complete the following questions if you would like to help repair items.</p>
+                <p>If you would like to help repair, please indicate which of the folowing applies:</p>
 
-                <label>General DIY and Repair Skills:</label>
+                <label>General DIY and Repair Skills</label>
                 <table>
                     <tr>
-                        <td><input type="radio" id="diy0" name="generalDIY" value="Not Applicable"><label for="diy0">Not Applicable</label></td>
-                        <td><input type="radio" id="diy1" name="generalDIY" value="Novice"><label for="diy1">Novice</label></td>
-                        <td><input type="radio" id="diy2" name="generalDIY" value="Beginner"><label for="diy2">Beginner</label></td>
-                        <td><input type="radio" id="diy3" name="generalDIY" value="Intermediate"><label for="diy3">Intermediate</label></td>
-                        <td><input type="radio" id="diy4" name="generalDIY" value="Advanced"><label for="diy4">Advanced</label></td>
-                        <td><input type="radio" id="diy5" name="generalDIY" value="Expert"><label for="diy5">Expert</label></td>
+                        <td><input type="radio" id="diyYes" name="generalDIY" value="Yes"><label for="diyYes">Yes</label></td>
+                        <td><input type="radio" id="diyNo" name="generalDIY" value="No"><label for="diyNo">No</label></td>
+                        <td><input type="radio" id="diyNA" name="generalDIY" value="N/A" checked><label for="diyNA">N/A</label></td>
                     </tr>
                 </table>
 
-                <label>Electrical and Electronics Repair:</label>
+                <label>Electrical Repair Skills</label>
                 <table>
                     <tr>
-                        <td><input type="radio" id="electrical0" name="electricalRepair" value="Not Applicable"><label for="electrical0">Not Applicable</label></td>
-                        <td><input type="radio" id="electrical1" name="electricalRepair" value="Not Confident"><label for="electrical1">Not Confident</label></td>
-                        <td><input type="radio" id="electrical2" name="electricalRepair" value="Slightly Confident"><label for="electrical2">Slightly Confident</label></td>
-                        <td><input type="radio" id="electrical3" name="electricalRepair" value="Moderately Confident"><label for="electrical3">Moderately Confident</label></td>
-                        <td><input type="radio" id="electrical4" name="electricalRepair" value="Very Confident"><label for="electrical4">Very Confident</label></td>
-                        <td><input type="radio" id="electrical5" name="electricalRepair" value="Extremely Confident"><label for="electrical5">Extremely Confident</label></td>
+                        <td><input type="radio" id="electricalYes" name="electricalRepair" value="Yes"><label for="electricalYes">Yes</label></td>
+                        <td><input type="radio" id="electricalNo" name="electricalRepair" value="No"><label for="electricalNo">No</label></td>
+                        <td><input type="radio" id="electricalNA" name="electricalRepair" value="N/A" checked><label for="electricalNA">N/A</label></td>
                     </tr>
                 </table>
 
-                <label>Textile and Toy Repair:</label>
+                <label>Electronics Repair Skills</label>
                 <table>
                     <tr>
-                        <td><input type="radio" id="textile0" name="textileToyRepair" value="Not Applicable"><label for="textile0">Not Applicable</label></td>
-                        <td><input type="radio" id="textile1" name="textileToyRepair" value="Novice"><label for="textile1">Novice</label></td>
-                        <td><input type="radio" id="textile2" name="textileToyRepair" value="Beginner"><label for="textile2">Beginner</label></td>
-                        <td><input type="radio" id="textile3" name="textileToyRepair" value="Intermediate"><label for="textile3">Intermediate</label></td>
-                        <td><input type="radio" id="textile4" name="textileToyRepair" value="Advanced"><label for="textile4">Advanced</label></td>
-                        <td><input type="radio" id="textile5" name="textileToyRepair" value="Expert"><label for="textile5">Expert</label></td>
+                        <td><input type="radio" id="electronicsYes" name="electronicsRepair" value="Yes"><label for="electronicsYes">Yes</label></td>
+                        <td><input type="radio" id="electronicsNo" name="electronicsRepair" value="No"><label for="electronicsNo">No</label></td>
+                        <td><input type="radio" id="electronicsNA" name="electronicsRepair" value="N/A" checked><label for="electronicsNA">N/A</label></td>
                     </tr>
                 </table>
 
-                <label>Mechanical Repair:</label>
+                <label>Computer Help Skills</label>
                 <table>
                     <tr>
-                        <td><input type="radio" id="bicycle0" name="bicycleRepair" value="Not Applicable"><label for="bicycle0">Not Applicable</label></td>
-                        <td><input type="radio" id="bicycle1" name="bicycleRepair" value="Not Skilled"><label for="bicycle1">Not Skilled</label></td>
-                        <td><input type="radio" id="bicycle2" name="bicycleRepair" value="Slightly Skilled"><label for="bicycle2">Slightly Skilled</label></td>
-                        <td><input type="radio" id="bicycle3" name="bicycleRepair" value="Moderately Skilled"><label for="bicycle3">Moderately Skilled</label></td>
-                        <td><input type="radio" id="bicycle4" name="bicycleRepair" value="Very Skilled"><label for="bicycle4">Very Skilled</label></td>
-                        <td><input type="radio" id="bicycle5" name="bicycleRepair" value="Extremely Skilled"><label for="bicycle5">Extremely Skilled</label></td>
+                        <td><input type="radio" id="computerYes" name="computerHelp" value="Yes"><label for="computerYes">Yes</label></td>
+                        <td><input type="radio" id="computerNo" name="computerHelp" value="No"><label for="computerNo">No</label></td>
+                        <td><input type="radio" id="computerNA" name="computerHelp" value="N/A" checked><label for="computerNA">N/A</label></td>
                     </tr>
                 </table>
 
-                    <p>Your data will be held in accordance with the General Data Protection Regulation (GDPR).</p>
-                    <ul>
-                        <li>Your personal information is protected under law.</li>
-                        <li>We use it fairly, legally, and transparently.</li>
-                        <li>You have the right to access, correct, or delete your data.</li>
-                        <li>We ensure strong data security.</li>
-                    </ul>
+                <label>Textile Repair Skills</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="textileYes" name="textileRepair" value="Yes"><label for="textileYes">Yes</label></td>
+                        <td><input type="radio" id="textileNo" name="textileRepair" value="No"><label for="textileNo">No</label></td>
+                        <td><input type="radio" id="textileNA" name="textileRepair" value="N/A" checked><label for="textileNA">N/A</label></td>
+                    </tr>
+                </table>
 
-                    <input type="submit" value="Submit via Email" class="submit-button">
+                <label>Toy Repair Skills</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="toyYes" name="toyRepair" value="Yes"><label for="toyYes">Yes</label></td>
+                        <td><input type="radio" id="toyNo" name="toyRepair" value="No"><label for="toyNo">No</label></td>
+                        <td><input type="radio" id="toyNA" name="toyRepair" value="N/A" checked><label for="toyNA">N/A</label></td>
+                    </tr>
+                </table>
+
+                <label>Mechanical Repair Skills (including woodwork)</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="mechanicalYes" name="mechanicalRepair" value="Yes"><label for="mechanicalYes">Yes</label></td>
+                        <td><input type="radio" id="mechanicalNo" name="mechanicalRepair" value="No"><label for="mechanicalNo">No</label></td>
+                        <td><input type="radio" id="mechanicalNA" name="mechanicalRepair" value="N/A" checked><label for="mechanicalNA">N/A</label></td>
+                    </tr>
+                </table>
+
+                <label>Bike Repair Skills</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="bikeYes" name="bikeRepair" value="Yes"><label for="bikeYes">Yes</label></td>
+                        <td><input type="radio" id="bikeNo" name="bikeRepair" value="No"><label for="bikeNo">No</label></td>
+                        <td><input type="radio" id="bikeNA" name="bikeRepair" value="N/A" checked><label for="bikeNA">N/A</label></td>
+                    </tr>
+                </table>
+
+                <hr />
+
+                <label>Are you able to bring your own tools? (If not, please indicate what you might need in the text field below.)</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="toolsYes" name="bringOwnTools" value="Yes"><label for="toolsYes">Yes</label></td>
+                        <td><input type="radio" id="toolsNo" name="bringOwnTools" value="No"><label for="toolsNo">No</label></td>
+                        <td><input type="radio" id="toolsNA" name="bringOwnTools" value="N/A" checked><label for="toolsNA">N/A</label></td>
+                    </tr>
+                </table>
+
+                <hr />
+
+                <label>Anything else you'd like to add?</label>
+                <textarea id="additionalComments" name="additionalComments" rows="4" cols="50" placeholder="Your comments here..."></textarea>
+
+                <input type="submit" value="Submit via Email" class="submit-button">
+
+                <p>Your data will be held in accordance with the General Data Protection Regulation (GDPR).</p>
+                <ul>
+                    <li>Your personal information is protected under law.</li>
+                    <li>We use it fairly, legally, and transparently.</li>
+                    <li>You have the right to access, correct, or delete your data.</li>
+                    <li>We ensure strong data security.</li>
+                </ul>
+
             </form>
 
         </div>
