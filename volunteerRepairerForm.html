@@ -19,6 +19,22 @@
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email">
 
+                <label for="phone">Phone:</label>
+                <input type="tel" id="phone" name="phone">
+
+                <fieldset>
+                    <legend>Which of the repair cafes for 2024 do you think you will be able to attend? (You do not need to commit to these now)</legend>
+                    <label for="february"><input type="checkbox" id="february" name="attendance[]" value="February"> February</label><br>
+                    <label for="march"><input type="checkbox" id="march" name="attendance[]" value="March"> March</label><br>
+                    <label for="april"><input type="checkbox" id="april" name="attendance[]" value="April"> April</label><br>
+                    <label for="may"><input type="checkbox" id="may" name="attendance[]" value="May"> May</label><br>
+                    <label for="june"><input type="checkbox" id="june" name="attendance[]" value="June"> June</label><br>
+                    <label for="july"><input type="checkbox" id="july" name="attendance[]" value="July"> July</label><br>
+                    <label for="september"><input type="checkbox" id="september" name="attendance[]" value="September"> September</label><br>
+                    <label for="october"><input type="checkbox" id="october" name="attendance[]" value="October"> October</label><br>
+                    <label for="november"><input type="checkbox" id="november" name="attendance[]" value="November"> November</label><br>
+                </fieldset>
+
                 <p>Please complete the next question if you'd prefer to volunteer in general (not as a repairer).</p>
 
                 <label>General Administration</label>
@@ -31,6 +47,8 @@
                         <td><input type="radio" id="admin5" name="generalAdmin" value="Extremely Interested"><label for="admin5">Extremely Interested</label></td>
                     </tr>
                 </table>
+                <textarea id="adminDetails" name="adminDetails" placeholder="Further details about your interest in General Administration"></textarea>
+
 
                 <label>Meeting and Greeting People</label>
                 <table>
