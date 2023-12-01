@@ -23,7 +23,6 @@
 
                 <input type="tel" id="phone" name="phone" required placeholder="Enter your phone number">
 
-
                 <label>Availability:</label>
 
                 <fieldset>
@@ -76,6 +75,15 @@
                 </table>
                 <textarea id="diyDetails" name="diyDetails" placeholder="Further details"></textarea>
 
+                <label>Are you a qualified <a href="https://www.pat-training-now.co.uk/">PAT tester</a>?</label>
+                <table>
+                    <tr>
+                        <td><input type="radio" id="diyYes" name="patTester" value="Yes"><label for="patYes">Yes</label></td>
+                        <td><input type="radio" id="diyNo" name="patTester" value="No"><label for="patNo">No</label></td>
+                        <td><input type="radio" id="diyNA" name="patTester" value="N/A" checked><label for="patNA">N/A</label></td>
+                    </tr>
+                </table>
+                <textarea id="diyDetails" name="diyDetails" placeholder="Further details"></textarea>
 
                 <label>Electrical Repair Skills:</label>
                 <table>
@@ -161,7 +169,7 @@
 
                 <hr />
 
-                <label>Anything else you'd like to add?</label>
+                <label>Anything else you'd like to add, such as health or accessibility issues we should be aware of?</label>
                 <textarea id="additionalComments" name="additionalComments" rows="4" cols="50" placeholder="Your comments here..."></textarea>
 
                 <input type="submit" value="Submit via Email" class="submit-button">
