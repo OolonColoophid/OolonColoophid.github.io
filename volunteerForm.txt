@@ -1,0 +1,84 @@
+# Tregony Repair Café: Volunteer Registration Form
+
+**Name:**  
+[Enter Name Here]
+
+**Email:**  
+[Enter Email Here]
+
+**Phone:**  
+[Enter Phone Here]
+
+**Availability: Which of the repair cafes for 2024 do you think you will be able to attend? (You do not need to commit to these now)**  
+- [ ] February
+- [ ] March
+- [ ] April
+- [ ] May
+- [ ] June
+- [ ] July
+- [ ] September
+- [ ] October
+- [ ] November
+
+**To help with administration, please indicate which of the following applies:**
+
+General Administration Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Meeting and Greeting People Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+**To help repair, please indicate which of the following applies:**
+
+General DIY and Repair Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Qualified PAT Tester (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Electrical Repair Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Electronics Repair Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Computer Help Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Textile Repair Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Toy Repair Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Mechanical Repair Skills (including woodwork) (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+Bike Repair Skills (Leave blank if Not Applicable):
+- [ ] Yes
+- [ ] No
+
+
+**Are you able to bring your own tools? (If not, please indicate what you might need in the text field below.)**  
+- [ ] Yes
+- [ ] No
+
+**Anything else you'd like to add, such as health or accessibility issues we should be aware of?**  
+[Enter Text Here]
+
+**Your data will be held in accordance with the General Data Protection Regulation (GDPR).**
+
+  * Your personal information is protected under law.
+  * We use it fairly, legally, and transparently.
+  * You have the right to access, correct, or delete your data.
+  * We ensure strong data security.
