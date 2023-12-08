@@ -18,21 +18,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Tregony Repair Café
+author: Tregony Repair Café
+email: contact@tregonyrepaircafe.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Maintain and repair items, share knowledge, reduce waste, and drink coffee (or tea!)  
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.tregonyrepaircafe.org" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+theme_color: rgb(0,160,176)
+accent_image: sidebar-lordsMeadow.jpeg
+menu:
+  - title: Café Times
+    url: /cafeTimes/
+  - title: Volunteers
+    url: /volunteers/
+  - title: Venue
+    url: /venue/
+  - title: About
+    url:   /about/
 
+legal:
+  - title: Privacy
+    url:  /privacy-policy/
+
+facebook: "Tregony Repair Café Facebook Page URL"
 # Build settings
-theme: minima
+remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -43,6 +60,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
+#   - excluded/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
