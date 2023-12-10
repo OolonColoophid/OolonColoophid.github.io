@@ -29,7 +29,8 @@ url: "https://www.tregonyrepaircafe.org" # the base hostname & protocol for your
 # twitter_username: jekyllrb
 # github_username:  jekyll
 theme_color: rgb(0,160,176)
-accent_image: sidebar-lordsMeadow.jpeg
+accent_image: /sidebar-lordsMeadow.jpeg
+  
 menu:
   - title: Café Times
     url: /cafeTimes/
@@ -37,6 +38,8 @@ menu:
     url: /volunteers/
   - title: Venue
     url: /venue/
+  - title: Forms
+    url: /forms/
   - title: About
     url:   /about/
 
