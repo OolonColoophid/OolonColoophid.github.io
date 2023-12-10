@@ -46,7 +46,7 @@ legal:
 
 facebook: "Tregony Repair Café Facebook Page URL"
 # Build settings
-remote_theme: hydecorp/hydejack
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

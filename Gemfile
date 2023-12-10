@@ -20,6 +20,9 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 end
 
+# IH - This is our pro Hydejack theme, installed via instructions from here: https://hydejack.com/docs/install/#existing-sites
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
