@@ -38,6 +38,8 @@ menu:
     url: /volunteers/
   - title: Venue
     url: /venue/
+  - title: Volunteer Form
+    url: /volunteerForm/
   - title: Forms
     url: /forms/
   - title: About
