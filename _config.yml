@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tregony Repair Café
-author: Tregony Repair Café
+author: Ian Hocking
 email: contact@tregonyrepaircafe.org
 description: >- # this means to ignore newlines until "baseurl:"
   Maintain and repair items, share knowledge, reduce waste, and drink coffee (or tea!)  
@@ -38,12 +38,10 @@ menu:
     url: /volunteers/
   - title: Venue
     url: /venue/
-  - title: Volunteer Form
-    url: /volunteerForm/
-  - title: Forms
-    url: /forms/
+  - title: Support
+    url: /support/
   - title: About
-    url:   /about/
+    url: /about/
 
 legal:
   - title: Privacy
@@ -55,6 +53,9 @@ theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2024. All rights reserved.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
