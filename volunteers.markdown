@@ -25,7 +25,7 @@ Use this form to register as a volunteer. If you need assistance with it, please
 
 Your contribution, no matter how small, can make a big difference. We look forward to having you on our team!
 
-<form method="post" action="https://forms.un-static.com/forms/3c79515acf87aa7aa73d2f36f05e2703f1957205">
+<form method="post" action="https://forms.un-static.com/forms/017bcfec08f4f79b60c42affc5514b6dc4bd997d">
 <!-- About You -->
 <h3>About You:</h3>
 <div class="form-row">
@@ -278,7 +278,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <label for="additionalComments">Anything else you'd like to add?</label>
 <textarea class="form-control" id="additionalComments" rows="3"></textarea>
 </div>
-<button type="submit" class="btn btn-primary">Submit</button>
+<button type="submit" class="btn btn-primary" value="submit">Submit</button>
 </form>
 
 This form is powered by [un-static forms](https://forms.un-static.com/), a reputable third-party form processing provider. You may omit any private information from the form below (wtih the exception of your email address) and contact us via email if you prefer. If you don't have an email address, enter "no@email.com" and let us know in the note field at the end of the form how to contact you.
