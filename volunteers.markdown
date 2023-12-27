@@ -46,7 +46,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <input type="email" class="form-control" id="emailAddress" required placeholder="e.g. daffy@menabilly.com">
 
 <!-- Phone Number -->
-<label class="form-control-label" for="phoneNumer">Phone Number</label>
+<label class="form-control-label" for="phoneNumber">Phone Number</label>
 <input type="text" class="form-control" id="phoneNumber">
 </div>
 
