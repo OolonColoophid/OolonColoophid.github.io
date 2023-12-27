@@ -31,23 +31,25 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <div class="form-row">
 <div class="col">
 <label for="firstName" class="col-form-label">First Name</label>
-<input name= "firstName" id="firstName" type="text" class="form-control" placeholder="e.g. Daphne">
+<input name="firstName" id="firstName" type="text" class="form-control" placeholder="e.g. Daphne">
 </div>
 
 <div class="col">
 <label for="lastName" class="col-form-label">Last Name</label>
-<input id="lastName" type="text" class="form-control" placeholder="e.g. du Maurier">
+<input name="lastName" id="lastName" type="text" class="form-control" placeholder="e.g. du Maurier">
 </div>
 </div>
 
 <!-- Email Address -->
 <div class="form-group">
 <label for="emailAddress">Email address (required)</label>
-<input type="email" class="form-control" id="emailAddress" required placeholder="e.g. daffy@menabilly.com">
+<input name="emailAddress" type="email" class="form-control" id="emailAddress" required placeholder="e.g. daffy@menabilly.com">
+</div>
 
 <!-- Phone Number -->
+<div class="form-group">
 <label class="form-control-label" for="phoneNumber">Phone Number</label>
-<input type="text" class="form-control" id="phoneNumber">
+<input name="phoneNumber" type="text" class="form-control" id="phoneNumber">
 </div>
 
 <!-- Availability -->
@@ -58,70 +60,70 @@ Your contribution, no matter how small, can make a big difference. We look forwa
   <!-- February -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthFebruary" value="February"> February
+      <input name="monthFebruary" class="form-check-input" type="checkbox" id="monthFebruary" value="February"> February
     </label>
   </div>
 
   <!-- March -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthMarch" value="March"> March
+      <input name="monthMarch" class="form-check-input" type="checkbox" id="monthMarch" value="March"> March
     </label>
   </div>
 
   <!-- April -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthApril" value="April"> April
+      <input name="monthApril" class="form-check-input" type="checkbox" id="monthApril" value="April"> April
     </label>
   </div>
 
   <!-- May -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthMay" value="May"> May
+      <input name="monthMay" class="form-check-input" type="checkbox" id="monthMay" value="May"> May
     </label>
   </div>
 
   <!-- June -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthJune" value="June"> June
+      <input name="monthJune" class="form-check-input" type="checkbox" id="monthJune" value="June"> June
     </label>
   </div>
 
   <!-- July -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthJuly" value="July"> July
+      <input name="monthJuly" class="form-check-input" type="checkbox" id="monthJuly" value="July"> July
     </label>
   </div>
 
   <!-- August (Disabled as the cafe is closed) -->
   <div class="form-check form-check-inline disabled">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthAugust" value="August" disabled> August
+      <input name="monthAugust" class="form-check-input" type="checkbox" id="monthAugust" value="August" disabled> August
     </label>
   </div>
 
   <!-- September -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthSeptember" value="September"> September
+      <input name="monthSeptember" class="form-check-input" type="checkbox" id="monthSeptember" value="September"> September
     </label>
   </div>
 
   <!-- October -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthOctober" value="October"> October
+      <input name="monthOctober" class="form-check-input" type="checkbox" id="monthOctober" value="October"> October
     </label>
   </div>
 
   <!-- November -->
   <div class="form-check form-check-inline">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" id="monthNovember" value="November"> November
+      <input name="monthNovember" class="form-check-input" type="checkbox" id="monthNovember" value="November"> November
     </label>
   </div>
 </div>
@@ -137,7 +139,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <option value="na" selected>N/A</option>
 </select>
 <div class="form-group">
-<input id="adminSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+<input name="adminSkillsFurDet" id="adminSkillsFurDet" class="form-control" type="text" placeholder="Further details">
 </div>
 </div>
 
@@ -149,7 +151,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <option value="na" selected>N/A</option>
 </select>
 <div class="form-group">
-    <input id="meetSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="meetSkillsFurDet" id="meetSkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -163,7 +165,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="diySkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="diySkillsFurDet" id="diySkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -176,7 +178,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="electricalSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="electricalSkillsFurDet" id="electricalSkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -189,7 +191,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="electronicsSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="electronicsSkillsFurDet" id="electronicsSkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -202,7 +204,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="computerSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="computerSkillsFurDet" id="computerSkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -215,7 +217,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="textileSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="textileSkillsFurDet" id="textileSkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -228,7 +230,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="toySkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="toySkillsFurDet" id="toySkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -241,7 +243,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="mechanicalSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="mechanicalSkillsFurDet" id="mechanicalSkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -254,7 +256,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="bikeSkillsFurDet" class="form-control" type="text" placeholder="Further details">
+    <input name="bikeSkillsFurDet" id="bikeSkillsFurDet" class="form-control" type="text" placeholder="Further details">
   </div>
 </div>
 
@@ -267,7 +269,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
     <option value="na" selected>N/A</option>
   </select>
   <div class="form-group">
-    <input id="ownToolsFurDet" class="form-control" type="text"
+    <input name="ownToolsFurDet" id="ownToolsFurDet" class="form-control" type="text"
      placeholder="If not, please indicate what you might need">
   </div>
 </div>
