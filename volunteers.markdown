@@ -133,7 +133,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 
 <div class="form-group">
 <label for="adminSkills">General Administration Skills:</label>
-<select class="form-control" id="adminSkills">
+<select name="adminSkills" class="form-control" id="adminSkills">
 <option value="yes">Yes</option>
 <option value="no">No</option>
 <option value="na" selected>N/A</option>
@@ -145,7 +145,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 
 <div class="form-group">
 <label for="meetSkills">Meeting and Greeting People Skills:</label>
-<select class="form-control" id="meetSkills">
+<select name="meetSkills" class="form-control" id="meetSkills">
 <option value="yes">Yes</option>
 <option value="no">No</option>
 <option value="na" selected>N/A</option>
@@ -159,7 +159,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- General DIY and Repair Skills: -->
 <div class="form-group">
   <label for="diySkills">General DIY and Repair Skills:</label>
-  <select class="form-control" id="diySkills">
+  <select name="diySkills" class="form-control" id="diySkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -172,7 +172,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Electrical Repair Skills: -->
 <div class="form-group">
   <label for="electricalSkills">Electrical Repair Skills:</label>
-  <select class="form-control" id="electricalSkills">
+  <select name="electricalSkills" class="form-control" id="electricalSkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -185,7 +185,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Electronics Repair Skills: -->
 <div class="form-group">
   <label for="electronicsSkills">Electronics Repair Skills:</label>
-  <select class="form-control" id="electronicsSkills">
+  <select name="electronicsSkills" class="form-control" id="electronicsSkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -198,7 +198,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Computer Help Skills: -->
 <div class="form-group">
   <label for="computerSkills">Computer Help Skills:</label>
-  <select class="form-control" id="computerSkills">
+  <select name="computerSkills" class="form-control" id="computerSkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -211,7 +211,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Textile Repair Skills: -->
 <div class="form-group">
   <label for="textileSkills">Textile Repair Skills:</label>
-  <select class="form-control" id="textileSkills">
+  <select name="textileSkills" class="form-control" id="textileSkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -224,7 +224,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Toy Repair Skills: -->
 <div class="form-group">
   <label for="toySkills">Toy Repair Skills:</label>
-  <select class="form-control" id="toySkills">
+  <select name="toySkills" class="form-control" id="toySkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -237,7 +237,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Mechanical Repair Skills (including woodwork): -->
 <div class="form-group">
   <label for="mechanicalSkills">Mechanical Repair Skills (including woodwork):</label>
-  <select class="form-control" id="mechanicalSkills">
+  <select name="mechanicalSkills" class="form-control" id="mechanicalSkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -250,7 +250,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Bike Repair Skills: -->
 <div class="form-group">
   <label for="bikeSkills">Bike Repair Skills:</label>
-  <select class="form-control" id="bikeSkills">
+  <select name="bikeSkills" class="form-control" id="bikeSkills">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -263,7 +263,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <!-- Are you able to bring your own tools? (If not, please indicate what you might need in the text field below.) -->
 <div class="form-group">
   <label for="ownTools">Are you able to bring your own tools?</label>
-  <select class="form-control" id="ownTools">
+  <select name="ownTools" class="form-control" id="ownTools">
     <option value="yes">Yes</option>
     <option value="no">No</option>
     <option value="na" selected>N/A</option>
@@ -278,7 +278,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 
 <div class="form-group">
 <label for="additionalComments">Anything else you'd like to add?</label>
-<textarea class="form-control" id="additionalComments" rows="3"></textarea>
+<textarea name="additionalComments" class="form-control" id="additionalComments" rows="3"></textarea>
 </div>
 <button type="submit" class="btn btn-primary" value="submit">Submit</button>
 </form>
