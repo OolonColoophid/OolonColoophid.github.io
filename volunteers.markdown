@@ -31,7 +31,7 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <div class="form-row">
 <div class="col">
 <label for="firstName" class="col-form-label">First Name</label>
-<input id="firstName" type="text" class="form-control" placeholder="e.g. Daphne">
+<input name= "firstName" id="firstName" type="text" class="form-control" placeholder="e.g. Daphne">
 </div>
 
 <div class="col">
