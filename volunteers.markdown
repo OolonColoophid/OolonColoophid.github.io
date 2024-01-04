@@ -6,6 +6,8 @@ permalink: /volunteers/
 
 We're always looking for enthusiastic individuals who are passionate about repair, sustainability, and community. Whether you're a skilled repairer or just keen to help out, there's a place for you at Tregony Repair Café.
 
+If you like, you can simply [sign up to our mailing list]({% link mailingListSignUp.markdown %}).
+
 ## Why Volunteer?
 
 - **Share Your Skills**: Use your repair skills to help others and pass on your knowledge.
