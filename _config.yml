@@ -42,6 +42,8 @@ menu:
     url: /support/
   - title: About
     url: /about/
+ - title: Downloads
+    url: /downloads/
 
 legal:
   - title: Privacy
