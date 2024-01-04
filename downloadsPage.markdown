@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads
-permalink: /downloads/
+permalink: /downloadsPage/
 ---
 
 Here you will find documentation for download, such as flyers and other useful paperwork.
