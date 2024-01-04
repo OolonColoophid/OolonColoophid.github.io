@@ -285,6 +285,6 @@ Your contribution, no matter how small, can make a big difference. We look forwa
 <button type="submit" class="btn btn-primary" value="submit">Submit</button>
 </form>
 
-This form is powered by [un-static forms](https://forms.un-static.com/), a reputable third-party form processing provider. You may omit any private information from the form below (wtih the exception of your email address) and contact us via email if you prefer. If you don't have an email address, enter "no@email.com" and let us know in the note field at the end of the form how to contact you.
+This form is powered by [un-static forms](https://forms.un-static.com/), a reputable third-party form processing provider. You may omit any private information from the form above (wtih the exception of your email address) and contact us via email if you prefer. If you don't have an email address, enter "no@email.com" and let us know in the note field at the end of the form how to contact you.
 {:.note title="Fine Print"}
 
