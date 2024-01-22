@@ -18,7 +18,7 @@ Here you will find documentation for download, such as flyers and other useful p
 
 - [Disclaimer](/downloads/disclaimer.pdf)
 
-- [Registration](/download/registration.pdf)
+- [Registration](/downloads/registration.pdf)
 
 - [Feedback Form](/downloads/feedbackForm.pdf)
 
