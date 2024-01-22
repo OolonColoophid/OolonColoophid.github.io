@@ -13,9 +13,14 @@ Tregony Village Hall is not just a building; it's a community hub that brings pe
 ### Features of the Venue
 
 - **Spacious Hall**: Ample space for repair stations and comfortable seating for our visitors.
+
 - **Facilities**: Equipped with essential amenities including restrooms and a kitchen area.
+
 - **Accessibility**: The hall is wheelchair accessible, ensuring everyone can join us.
+
 - **Parking**: Ample parking space available for visitors.
+
+  - As well as parking at the village hall itself, [Roseland Parc](https://www.retirementvillages.co.uk/our-villages/roseland-parc/) have kindly offered the use of any free parking on their premises.
 
 ## Location
 

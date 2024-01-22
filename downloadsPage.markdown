@@ -6,4 +6,19 @@ permalink: /downloadsPage/
 
 Here you will find documentation for download, such as flyers and other useful paperwork.
 
+# Advertising
+
 [First flyer (January 2024, size A4)](/downloads/flyer1.pdf)
+
+# Repair Café Operation
+
+[Checklist](/download/checklist.pdf)
+
+# For Customers
+
+- [Disclaimer](/downloads/disclaimer.pdf)
+
+- [Registration](/download/registration.pdf)
+
+- [Feedback Form](/downloads/feedbackForm.pdf)
+
