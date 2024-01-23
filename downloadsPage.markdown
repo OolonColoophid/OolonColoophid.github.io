@@ -12,7 +12,7 @@ Here you will find documentation for download, such as flyers and other useful p
 
 # Repair Café Operation
 
-[Checklist](/download/checklist.pdf)
+[Checklist](/downloads/checklist.pdf)
 
 # For Customers
 
