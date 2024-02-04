@@ -12,6 +12,8 @@ Here you will find documentation for download, such as flyers and other useful p
 
 # Repair Café Operation
 
+[Risk Assessment](/downloads/riskAssessment.doc)
+
 [Checklist](/downloads/checklist.pdf)
 
 # For Customers
