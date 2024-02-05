@@ -12,9 +12,13 @@ Here you will find documentation for download, such as flyers and other useful p
 
 # Repair Café Operation
 
-[Risk Assessment](/downloads/riskAssessment.doc)
+- [Risk Assessment](/downloads/riskAssessment.doc)
 
-[Checklist](/downloads/checklist.pdf)
+- [Checklist](/downloads/checklist.pdf)
+
+# Health and Safety
+
+[Portable Application Testing Certificate for Paul Maziere](/downloads/patTestCertPaulMaziere.pdf)
 
 # For Customers
 
