@@ -8,11 +8,13 @@ Here you will find documentation for download, such as flyers and other useful p
 
 # Advertising
 
-[First flyer (January 2024, size A4)](/downloads/flyer1.pdf)
+[First flyer (January 2024, size A4)](/downloads/flyer1.pdf) Teaser material to generate interest in the café
 
 # Repair Café Operation
 
 - [Risk Assessment](/downloads/riskAssessment.doc)
+
+- [Table Numbers](/downloads/tableNumbers.pdf)
 
 - [Checklist](/downloads/checklist.pdf)
 
