@@ -24,7 +24,7 @@ Here you will find documentation for download, such as flyers and other useful p
 
 # For Customers
 
-- [Disclaimer](/downloads/disclaimer.pdf) The disclaim or 'house rules' sets expections for the customers
+- [Disclaimer](/downloads/disclaimer.pdf) The disclaimer or 'house rules' sets expections for the customers
 
 - [Registration](/downloads/registration.pdf) This registration form should be completed before the repair
 
