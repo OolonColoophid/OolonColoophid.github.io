@@ -4,29 +4,33 @@ title: Downloads
 permalink: /downloadsPage/
 ---
 
-Here you will find documentation for download, such as flyers and other useful paperwork.
+Here you will find documentation for download, such as flyers and other useful paperwork. This is mixture of information for people running the café, coming to the café, or those who might want to start their own.
 
 # Advertising
 
-[First flyer (January 2024, size A4)](/downloads/flyer1.pdf) Teaser material to generate interest in the café
+[First flyer (January 2024, size A4)](/downloads/flyer1.pdf) [PDF] Teaser material to generate interest in the café
 
 # Repair Café Operation
 
-- [Risk Assessment](/downloads/riskAssessment.doc) Outlines things that can go wrong, how likely they are, and how we'll try to minimise the risk. This is a requirement for our public liability insurance
+- [Risk Assessment](/downloads/riskAssessment.doc) [DOC] Outlines things that can go wrong, how likely they are, and how we'll try to minimise the risk. This is a requirement for our public liability insurance
 
-- [Table Numbers](/downloads/tableNumbers.pdf) Large-type A4 signs to place on tables
+- [Table Allocation Queue](/downloads/tableAllocationQueue.pdf) [PDF] Helps to keep track of who has been allocated to a given table
 
-- [Checklist](/downloads/checklist.pdf) This is an operational checklist for regular tasks, indicating when they should happen 
+- [Table Numbers](/downloads/tableNumbers.pdf) [PDF] Large-type A4 signs to place on tables
+
+- [Checklist](/downloads/checklist.pdf) [PDF] This is an operational checklist for regular tasks, indicating when they should happen 
 
 # Health and Safety
 
-[Portable Application Testing Certificate for Paul Maziere](/downloads/patTestCertPaulMaziere.pdf) This qualifies Maz to check domestic appliances for electrical safety
+[Portable Application Testing Certificate for Paul Maziere](/downloads/patTestCertPaulMaziere.pdf) [PDF] This qualifies Maz to check domestic appliances for electrical safety
 
 # For Customers
 
-- [Disclaimer](/downloads/disclaimer.pdf) The disclaimer or 'house rules' sets expections for the customers
+- [Disclaimer](/downloads/disclaimer.pdf) [PDF] The disclaimer or 'house rules' sets expections for the customers
 
-- [Registration](/downloads/registration.pdf) This registration form should be completed before the repair
+- [Registration](https://bit.ly/regTRC) This registration form should be completed before the repair
 
-- [Feedback Form](/downloads/feedbackForm.pdf) This feedback form collects useful information about the repair experience
+- [Registration](/downloads/registration.pdf) [PDF] The offline version of the registration form 
+
+- [Feedback Form](/downloads/feedbackForm.pdf) [PDF] This feedback form collects useful information about the repair experience
 
