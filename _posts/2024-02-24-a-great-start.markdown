@@ -6,7 +6,7 @@ categories: repair services
 ---
 
 ![The hall bustling with volunteers and community members engaged in repairs](/assets/firstCafe/hall.jpeg){:.lead width="800" height="600" loading="lazy"}
-A lively scene at the repair café, where community and sustainability meet.
+The calm before the storm at the repair café, where community and sustainability meet.
 {:.figcaption}
 
 The Tregony Repair Café is well and truly underway. We opened our doors to welcome a parade of interesting items, the vast majority of which we were able to repair or significantly improve, increasing their useful lifetimes:
@@ -48,12 +48,12 @@ Breathing new life into vacuum cleaners, ensuring they suck once more.
 No vacuum too challenging, our team tackles them all.
 {:.figcaption}
 
-![The team gathered outside Treverbyn Hall's 'Really Useful Van'](/assets/firstCafe/van.jpg){:.lead width="800" height="600" loading="lazy"}
-Our dedicated team, ready to make a difference, one repair at a time.
-{:.figcaption}
-
 ![Fixing festive cheer with Christmas light repairs](/assets/firstCafe/xmas.jpeg){:.lead width="800" height="600" loading="lazy"}
 Restoring the sparkle to Christmas lights, just in time for the festive season.
+{:.figcaption}
+
+![The team gathered outside Treverbyn Hall's 'Really Useful Van'](/assets/firstCafe/van.jpg){:.lead width="800" height="600" loading="lazy"}
+Our dedicated team, ready to make a difference, one repair at a time.
 {:.figcaption}
 
 # Thanks
