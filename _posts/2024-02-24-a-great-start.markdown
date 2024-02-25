@@ -24,8 +24,8 @@ The Tregony Repair Café is well and truly underway. We opened our doors to welc
 - **Seasonal Cheer**: An electric Christmas light set needing a fix to shine brightly once again.
 - **Kitchen Gadget**: A liquidiser, asking for help to blend smoothly again.
 
-![The hall bustling with volunteers and community members engaged in repairs](/assets/firstCafe/hall.jpeg){:.lead width="800" height="600" loading="lazy"}
-A lively scene at the repair café, where community and sustainability meet.
+![Preparing teas and coffees for our guests and volunteers](/assets/firstCafe/teaCoffee.jpg){:.lead width="800" height="600" loading="lazy"}
+Fueling our repair efforts with a warm cuppa.
 {:.figcaption}
 
 ![Doll awaiting a new lease on life with limb reattachment](/assets/firstCafe/doll.jpeg){:.lead width="800" height="600" loading="lazy"}
@@ -50,10 +50,6 @@ No vacuum too challenging, our team tackles them all.
 
 ![The team gathered outside Treverbyn Hall's 'Really Useful Van'](/assets/firstCafe/van.jpg){:.lead width="800" height="600" loading="lazy"}
 Our dedicated team, ready to make a difference, one repair at a time.
-{:.figcaption}
-
-![Preparing teas and coffees for our guests and volunteers](/assets/firstCafe/teaCoffee.jpg){:.lead width="800" height="600" loading="lazy"}
-Fueling our repair efforts with a warm cuppa.
 {:.figcaption}
 
 ![Fixing festive cheer with Christmas light repairs](/assets/firstCafe/xmas.jpeg){:.lead width="800" height="600" loading="lazy"}
