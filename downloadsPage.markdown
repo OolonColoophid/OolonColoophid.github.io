@@ -20,6 +20,8 @@ Here you will find documentation for download, such as flyers and other useful p
 
 - [Checklist](/downloads/checklist.pdf) [PDF] This is an operational checklist for regular tasks, indicating when they should happen 
 
+- [Record of Repair](/downloads/recordOfRepair.pdf) [PDF] This can be used for repairers to make a quick record for each repair.
+ 
 # Health and Safety
 
 [Portable Application Testing Certificate for Paul Maziere](/downloads/patTestCertPaulMaziere.pdf) [PDF] This qualifies Maz to check domestic appliances for electrical safety
