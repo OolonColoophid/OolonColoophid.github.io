@@ -5,7 +5,7 @@ date: 2024-02-24 10:30:00 +0000
 categories: repair services
 ---
 
-![The hall bustling with volunteers and community members engaged in repairs](/assets/firstCafe/hall.jpeg){:.lead width="800" height="600" loading="lazy"}
+![The hall bustling with volunteers and community members engaged in repairs](/assets/marchMadness/hall.jpeg){:.lead width="800" height="600" loading="lazy"}
 The calm before the storm at the repair café, where community and sustainability meet.
 {:.figcaption}
 
@@ -24,35 +24,35 @@ The Tregony Repair Café is well and truly underway. We opened our doors to welc
 - **Seasonal Cheer**: An electric Christmas light set needing a fix to shine brightly once again.
 - **Kitchen Gadget**: A liquidiser, asking for help to blend smoothly again.
 
-![Preparing teas and coffees for our guests and volunteers](/assets/firstCafe/teaCoffee.jpg){:.lead width="800" height="600" loading="lazy"}
+![Preparing teas and coffees for our guests and volunteers](/assets/marchMadness/teaCoffee.jpg){:.lead width="800" height="600" loading="lazy"}
 Fueling our repair efforts with a warm cuppa.
 {:.figcaption}
 
-![Doll awaiting a new lease on life with limb reattachment](/assets/firstCafe/doll.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Doll awaiting a new lease on life with limb reattachment](/assets/marchMadness/doll.jpeg){:.lead width="800" height="600" loading="lazy"}
 Our volunteers skillfully reattaching limbs to beloved dolls.
 {:.figcaption}
 
-![Ice cream machine being diagnosed by our repair experts](/assets/firstCafe/icecream.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Ice cream machine being diagnosed by our repair experts](/assets/marchMadness/icecream.jpeg){:.lead width="800" height="600" loading="lazy"}
 Diving into the mystery of the malfunctioning ice cream machine.
 {:.figcaption}
 
-![A close-up of meticulous pocket repair work](/assets/firstCafe/pocket.jpeg){:.lead width="800" height="600" loading="lazy"}
+![A close-up of meticulous pocket repair work](/assets/marchMadness/pocket.jpeg){:.lead width="800" height="600" loading="lazy"}
 Textile talents on display, mending pockets to perfection.
 {:.figcaption}
 
-![Vacuum cleaners in the midst of revival](/assets/firstCafe/vacuum.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Vacuum cleaners in the midst of revival](/assets/marchMadness/vacuum.jpeg){:.lead width="800" height="600" loading="lazy"}
 Breathing new life into vacuum cleaners, ensuring they suck once more.
 {:.figcaption}
 
-![Another vacuum repair, showcasing our versatility](/assets/firstCafe/vacuum2.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Another vacuum repair, showcasing our versatility](/assets/marchMadness/vacuum2.jpeg){:.lead width="800" height="600" loading="lazy"}
 No vacuum too challenging, our team tackles them all.
 {:.figcaption}
 
-![Fixing festive cheer with Christmas light repairs](/assets/firstCafe/xmas.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Fixing festive cheer with Christmas light repairs](/assets/marchMadness/xmas.jpeg){:.lead width="800" height="600" loading="lazy"}
 Restoring the sparkle to Christmas lights, just in time for the festive season.
 {:.figcaption}
 
-![The team gathered outside Treverbyn Hall's 'Really Useful Van'](/assets/firstCafe/van.jpg){:.lead width="800" height="600" loading="lazy"}
+![The team gathered outside Treverbyn Hall's 'Really Useful Van'](/assets/marchMadness/van.jpg){:.lead width="800" height="600" loading="lazy"}
 Our dedicated team, ready to make a difference, one repair at a time.
 {:.figcaption}
 
