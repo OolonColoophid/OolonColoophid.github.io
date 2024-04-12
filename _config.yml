@@ -42,6 +42,8 @@ menu:
     url: /mailingListSignUp/
   - title: Support
     url: /support/
+  - title: Feedback
+    url: /testimonials/
   - title: About
     url: /about/
   - title: Downloads
