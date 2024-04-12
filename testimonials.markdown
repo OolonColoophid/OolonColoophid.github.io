@@ -4,7 +4,9 @@ title: Feedback from Customers
 permalink: /testimonials/
 ---
 
-As people leave the café, we ask them to give us feedback. Here is a brief selection!
+As people leave, we ask them to give us feedback. Here is a brief selection!
+
+## Question: What went well about the Repair Café?
 
 > "Everything"
 
