@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Blog
+title: Recent Articles
 permalink: /allPosts/
 ---
 
@@ -14,4 +14,3 @@ permalink: /allPosts/
     </li>
   {% endfor %}
 </ul>
-

@@ -32,6 +32,8 @@ theme_color: rgb(0,160,176)
 accent_image: /sidebar-lordsMeadow.jpeg
   
 menu:
+  - title: Blog
+    url: /allPosts/
   - title: Café Times
     url: /cafeTimes/
   - title: Volunteers
