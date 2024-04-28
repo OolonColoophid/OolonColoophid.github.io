@@ -5,7 +5,7 @@ date: 2024-04-28 13:00:00 +0000
 categories: publicity, photos
 ---
 
-Our April repair café, held on the 27th at the Village Hall, was another testament to the power of community and the dedication of our volunteer repairers (not to mention those helping wrangle and make tea and coffee!). We extend our sincere thanks to all who participated, braving the northerly wind to bring in their items for repoair.
+Our April repair café, held on the 27th at the Village Hall, was another testament to the power of community and the dedication of our volunteer repairers (not to mention those helping wrangle and make tea and coffee!). We extend our sincere thanks to all who participated, braving the northerly wind to bring in their items for repair.
 
 ![Chainsaw examined, repair not feasible](/assets/aprilShowers/chainsaw_notRepaired.jpeg){:.lead width="800" height="600" loading="lazy"}
 Our skilled volunteers always thoroughly examine each item to determine the best course of action, even when a repair may not be possible. This one, unfortunately, had something niggly happening inside the motor itself.
