@@ -1,0 +1,62 @@
+---
+layout: post
+title: "September's Repair Café: Post-Summer"
+date: 2024-09-29 13:00:00 +0000
+categories: publicity, photos
+---
+
+We're back after our summer break! Despite the absence of three of our valuable repairers (like Arnie, they'll be back), we had a busy café full of the usual random items, most of which we could fix---alas, we can't always fix things, but we always have a go. Here is a small selection of items brought in.
+
+![The Cafe From the Stage](/assets/mayRepairs/cafe_from_stage.jpeg){:.lead width="800" height="600" loading="lazy"}
+The Village Hall has recently gone through an upgrade---solar panels, a new heating system---and is looking tip-top, the perfect venue!
+{:.figcaption}
+
+![A Fixed Camera](/assets/mayRepairs/camera_fixed.jpeg){:.lead width="800" height="600" loading="lazy"}
+This film camera is actually tiny, but comes with its own zoom lens and is working perfectly. At least, it *was* working perfectly until its film-winding lever broke. Now it's fixed and can take pictures again!
+{:.figcaption}
+
+![A Fixed Chair](/assets/mayRepairs/chair.jpeg){:.lead width="800" height="600" loading="lazy"}
+This chair has been de-wonkified by one of our repairers, Gary.
+{:.figcaption}
+
+![Coffee Machine Not Repaired](/assets/mayRepairs/coffee_machine.jpeg){:.lead width="800" height="600" loading="lazy"}
+This coffee machine had a problem transferring power, and unfortunately we weren't able to fix it.
+{:.figcaption}
+
+![Hair Curlers Being Repaired](/assets/mayRepairs/hair_curlers.jpeg){:.lead width="800" height="600" loading="lazy"}
+These hair curlers had a surprising amount of electronics inside. Fixed!
+{:.figcaption}
+
+![Heated Blanket Repaired](/assets/mayRepairs/heated_blanket.jpeg){:.lead width="800" height="600" loading="lazy"}
+A dodgy switch on this one wasn't transferring current to the blanket. Fixed too!
+{:.figcaption}
+
+![Nintendo](/assets/mayRepairs/nintendo.jpeg){:.lead width="800" height="600" loading="lazy"}
+This Nintendo Switch controller had a problem with its battery.
+{:.figcaption}
+
+![Sheriff Painting](/assets/mayRepairs/sheriff_painting.jpeg){:.lead width="800" height="600" loading="lazy"}
+This painting's subject is dressed in his official Sheriff regalia.
+{:.figcaption}
+
+![Sheriff Painting Reverse](/assets/mayRepairs/sheriff_reverse.jpeg){:.lead width="800" height="600" loading="lazy"}
+The sheriff's picture frame was broken; but here is some information placed within the frame. It reads: "ARTIST. - JOSEPH. EOWARD. HENNAH. THE GRIVE COTTAGE. MALPAS. NEWPORT. MON. COL JOHN EVANS. DSO. TD. DL. JP. HON COLONEL. 2NP BATT. THE MONMOUTHS HIRE. REG.T. HIGH SHERIFF OF MONMOUTHSHiRE. 1931 - 2."
+{:.figcaption}
+
+![Picture Frame Being Repaired](/assets/mayRepairs/frame_repair.jpeg){:.lead width="800" height="600" loading="lazy"}
+Fixing the frame involved re-setting the inner frame, which had been added to cover the border of the painting, where some paint was missing.
+{:.figcaption}
+
+![Tray Reverse](/assets/mayRepairs/tray_reverse.jpeg){:.lead width="800" height="600" loading="lazy"}
+While repairing a tray with glass top, we came across this message from the previous glazier, a man called C A Coulson from Thanet, Kent, who re-glazed the tray in 1987. 
+{:.figcaption}
+
+![Vacuum Cleaner](/assets/mayRepairs/vacuum_cleaner.jpeg){:.lead width="800" height="600" loading="lazy"}
+This vacuum cleaner proved to be a tricky customer.
+{:.figcaption}
+
+![VCR Repair](/assets/mayRepairs/vcr.jpeg){:.lead width="800" height="600" loading="lazy"}
+Another tricky customer, this Video Cassette Recorder. Photo taken just before ejecting the cassette.
+{:.figcaption}
+
+Do come along to our next repair café on 26th October, 2024, in the Tregony Village Hall.
