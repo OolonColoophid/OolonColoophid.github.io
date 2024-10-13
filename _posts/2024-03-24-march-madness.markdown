@@ -2,7 +2,7 @@
 layout: post
 title: "March Madness"
 date: 2024-03-24 13:00:00 +0000
-categories: publicity, photos
+categories: publicity photos
 ---
 
 We had a fantastic café on Saturday 23 March. We fixed our heaviest item so far, a tumble dryer! Lots of coffee was consumed, as well as a biscuits, and we're grateful to the Tregonians (and others from further afield) who braved the sometimes inclement weather. Onwards and upwards to the next one, 27th April 1-3pm.

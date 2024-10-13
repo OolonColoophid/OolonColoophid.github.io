@@ -2,7 +2,7 @@
 layout: post
 title: "Inspiration from Austria: A New Wave of Electronic Repairs"
 date: 2023-12-30 11:00:00 +0000
-categories: community, sustainability, innovation
+categories: community sustainability innovation
 ---
 As reported by the BBC, the Austrian government has launched a remarkable initiative to foster the repair of electronic goods. This Repair Bonus voucher scheme subsidizes up to €200 for repairing electronics, a move that significantly encourages sustainable practices over disposals.
 

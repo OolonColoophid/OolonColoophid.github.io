@@ -2,7 +2,7 @@
 layout: post
 title: "Discover How to Repair Your Blinds with Fix My Blinds"
 date: 2024-01-02 10:00:00 +0000
-categories: repair, diy
+categories: repair diy
 ---
 
 ## Empower Yourself with DIY Blind Repairs

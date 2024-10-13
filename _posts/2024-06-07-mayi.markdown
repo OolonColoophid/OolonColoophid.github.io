@@ -2,7 +2,7 @@
 layout: post
 title: "May's Repair Café: Fixing the Future"
 date: 2024-06-08 13:00:00 +0000
-categories: publicity, photos
+categories: publicity photos
 ---
 
 Our May repair café, held on the 25th at the Village Hall, was another great combination of community spirit and technical expertise. The event saw a diverse range of items being repaired, and we thank everyone who brought their items, volunteered their skills, or simply came to support and have a tea or coffee!

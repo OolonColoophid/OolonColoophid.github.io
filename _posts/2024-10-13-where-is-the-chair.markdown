@@ -2,7 +2,7 @@
 layout: post
 title: "A Mysterious Radio Appearance"
 date: 2024-10-13 10:00:00 +0000
-categories: media, radio
+categories: media radio
 ---
 
 Yesterday morning, our chair/benevolent dictator Ian Hocking (that's me, talking about myself in the third person) made an appearance on [BBC Radio Cornwall](https://www.bbc.co.uk/radiocornwall) as the enigmatic 'chair' on [James Dundon](https://uk.linkedin.com/in/dundonradio)'s show, with [Matt Tancock](https://uk.linkedin.com/in/matt-tancock-019b29187) standing in as host (along with producer Lewis Webb).
