@@ -16,7 +16,7 @@ Missed out? Tune in to BBC Radio Cornwall.
 
 ![Audio Player](/assets/images/audio-player-icon.png){:.lead width="50" height="50" loading="lazy"}
 
-<audio controls>
+<audio controls preload="none">
   <source src="/assets/audio/bbc-radio-cornwall-mysterious-chair.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
