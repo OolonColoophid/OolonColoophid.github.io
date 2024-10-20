@@ -39,12 +39,4 @@ Remember, your old computer doesn't have to become e-waste – it might just nee
 
 For more information on Linux and its benefits, check out the [Linux Foundation's website](https://www.linuxfoundation.org/).
 
-## See Linux Mint in Action
-
-To get a better idea of what Linux Mint looks like and how it works, check out this informative YouTube video:
-
-{% include youtube.html id="-LUaW7e5zQ8" %}
-
-This video provides a great overview of Linux Mint's features and user interface, helping you visualize how it could work on your computer.
-
 
