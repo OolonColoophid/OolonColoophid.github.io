@@ -5,11 +5,13 @@ date: 2024-10-20 09:00:00 +0000
 categories: technology support sustainability
 ---
 
-As you may have heard, Microsoft's Windows 10 reached its [End of Support (EOS) on October 14, 2024](https://www.microsoft.com/en-gb/windows/end-of-support). This means that Microsoft is no longer providing security updates or technical support for Windows 10 devices. Many users might consider their older computers obsolete and dispose of them, potentially contributing to the growing problem of electronic waste in landfills. This not only harms the environment but also wastes perfectly functional hardware that could still serve a purpose with the right software.
+EDIT: An earlier version of this post incorrectly stated that Windows 10 EOS was on October 14, 2024. It's now been corrected to October 14, 2025.
+
+As you may have heard, Microsoft's Windows 10 will reach its [End of Support (EOS) on October 14, 2025](https://www.microsoft.com/en-gb/windows/end-of-support). This means that Microsoft will no longer provide security updates or technical support for Windows 10 devices. Many users might consider their older computers obsolete and dispose of them, potentially contributing to the growing problem of electronic waste in landfills. This not only harms the environment but also wastes perfectly functional hardware that could still serve a purpose with the right software.
 
 ## What does this mean for you?
 
-If you're still using Windows 10, you might be wondering about your options. While upgrading to Windows 11 is one possibility, it's not the only solution. At our repair café, we're excited to offer an alternative that could breathe new life into your computer: Linux.
+If you're using Windows 10, you might be wondering about your options. While upgrading to Windows 11 is one possibility, it's not the only solution. At our repair café, we're excited to offer an alternative that could breathe new life into your computer: Linux.
 
 By considering alternatives like Linux, we can extend the life of these devices, reduce e-waste, and make a positive impact on our environment. Let's explore how we can keep your computer running smoothly and sustainably.
 
