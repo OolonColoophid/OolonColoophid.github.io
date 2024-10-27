@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "October Repair Café: Not Too Scary"
-date: 2023-10-27 18:00:00 +0000
+date: 2024-10-27 18:00:00 +0000
 categories: repair-cafe community sustainability
 ---
 
