@@ -10,6 +10,11 @@ It was another fantastic repair café yesterday. We were delighted to welcome Ni
 ![Mobile repair van]({{ site.baseurl }}/assets/octRepairs/the_treverbyn_hall_mobile_repair_van.jpeg){:.lead width="800" height="600" loading="lazy"}
 The Really Useful Van from Treverbyn Hall - bringing repair expertise to our community
 {:.figcaption}
+
+![Toy swap table]({{ site.baseurl }}/assets/octRepairs/toy_swap_table_full_of_toys.jpeg){:.lead width="800" height="600" loading="lazy"}
+The fantastic toy swap table managed by the 1st Roseland Scout Group.
+{:.figcaption}
+
 ## The Starters
 
 It was the busiest session of the year so far, with a diverse range of items brought in for repair. Here's a glimpse of what our volunteers tackled:
@@ -35,11 +40,11 @@ Safety meets sustainability: adjusting the sleeves on a hi-vis jacket
 Our electronics team had their hands full:
 
 ![Sewing machine repair]({{ site.baseurl }}/assets/octRepairs/sewing_machine_foot_pedal_being_repaired.jpeg){:.lead width="800" height="600" loading="lazy"}
-Successfull diagnosing issues with a sewing machine foot pedal.
+Successfully diagnosing issues with a sewing machine foot pedal.
 {:.figcaption}
 
 ![Speaker repair]({{ site.baseurl }}/assets/octRepairs/repairing_mobile_speaker_pair.jpeg){:.lead width="800" height="600" loading="lazy"}
-Working on a pair of mobile speakers - these have now ready to get funky once more.
+Working on a pair of mobile speakers - these are now ready to get funky once more.
 {:.figcaption}
 
 ![Pressure washer repair]({{ site.baseurl }}/assets/octRepairs/repairing_the_switch_inside_pressure_washer.jpeg){:.lead width="800" height="600" loading="lazy"}
@@ -60,23 +65,20 @@ Sometimes even our best efforts can't bring an appliance back to life - this cof
 A portable sound system that unfortunately needed specialist tools to fully repair.
 {:.figcaption}
 
-![Toy swap table]({{ site.baseurl }}/assets/octRepairs/toy_swap_table_full_of_toys.jpeg){:.lead width="800" height="600" loading="lazy"}
-The fantastic toy swap table managed by the 1st Roseland Scout Group.
+![Hot water urn repair]({{ site.baseurl }}/assets/octRepairs/repairing_hot_water_urn.jpeg){:.lead width="800" height="600" loading="lazy"}
+Getting this hot water urn back in service - perfect for community events!
+{:.figcaption}
+
+![Sandwich toaster repair]({{ site.baseurl }}/assets/octRepairs/repairing_a_sandwich_toaster.jpeg){:.lead width="800" height="600" loading="lazy"}
+Making sure this sandwich toaster can continue making tasty toasties - though it does need a new cable and plug.
+{:.figcaption}
+
+![Glasses cleaning]({{ site.baseurl }}/assets/octRepairs/cleaning_glasses.jpeg){:.lead width="800" height="600" loading="lazy"}
+Sometimes a good clean is all that's needed - bringing clarity back to these glasses.
 {:.figcaption}
 
 ![Happy customer]({{ site.baseurl }}/assets/octRepairs/child_in_pram_getting_toy_from_toy_swap.jpeg){:.lead width="800" height="600" loading="lazy"}
 One of our youngest visitors finding a new treasure at the toy swap.
 {:.figcaption}
-
-## Afters
-
-![Woodworking station]({{ site.baseurl }}/assets/octRepairs/our_woodworking_table.jpeg){:.lead width="800" height="600" loading="lazy"}
-Our busy woodworking station ready for action!
-{:.figcaption}
-
-We also saw successful repairs of:
-- A hot water urn
-- A sandwich toaster
-- Various household appliances
 
 Remember, our repair café is about more than just fixing things - it's about bringing our community together and promoting sustainability. We look forward to seeing you at our next session!
