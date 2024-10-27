@@ -15,6 +15,10 @@ The Really Useful Van from Treverbyn Hall - bringing repair expertise to our com
 The fantastic toy swap table managed by the 1st Roseland Scout Group.
 {:.figcaption}
 
+![Repair cafe crowd]({{ site.baseurl }}/assets/octRepairs/repair_cafe_crowd.jpeg){:.lead width="800" height="600" loading="lazy"}
+Our busiest repair café session of the year so far - the community really came together!
+{:.figcaption}
+
 ## The Starters
 
 It was the busiest session of the year so far, with a diverse range of items brought in for repair. Here's a glimpse of what our volunteers tackled:
@@ -55,6 +59,10 @@ Getting to the heart of a pressure washer switch problem.
 Investigating aerial issues on a transistor radio; we're filing this one under 'somewhat repaired', since it works perfectly with a screwdriver stuck in it! The owner will probably get herself a new aerial.
 {:.figcaption}
 
+![Hot water urn repair]({{ site.baseurl }}/assets/octRepairs/repairing_hot_water_urn.jpeg){:.lead width="800" height="600" loading="lazy"}
+Getting this hot water urn back in service - perfect for community events!
+{:.figcaption}
+
 Some items, as usual, proved challenging.
 
 ![Coffee machine]({{ site.baseurl }}/assets/octRepairs/a_coffee_machine_not_repaired.jpeg){:.lead width="800" height="600" loading="lazy"}
@@ -63,10 +71,6 @@ Sometimes even our best efforts can't bring an appliance back to life - this cof
 
 ![Sound system]({{ site.baseurl }}/assets/octRepairs/portable_sound_system_could_not_repair.jpeg){:.lead width="800" height="600" loading="lazy"}
 A portable sound system that unfortunately needed specialist tools to fully repair.
-{:.figcaption}
-
-![Hot water urn repair]({{ site.baseurl }}/assets/octRepairs/repairing_hot_water_urn.jpeg){:.lead width="800" height="600" loading="lazy"}
-Getting this hot water urn back in service - perfect for community events!
 {:.figcaption}
 
 ![Sandwich toaster repair]({{ site.baseurl }}/assets/octRepairs/repairing_a_sandwich_toaster.jpeg){:.lead width="800" height="600" loading="lazy"}

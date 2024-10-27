@@ -23,6 +23,22 @@ Join us at the Tregony Village Hall for our regular repair café sessions. Here'
 There is no café in January, August or December.
 {:.note title="Please Note"}
 
+## 2025 Schedule
+
+| Month       | Date              | Time          |
+|-------------|-------------------|---------------|
+| February    | Saturday, 1st     | 1:00 PM - 3:00 PM |
+| March       | Saturday, 22nd    | 1:00 PM - 3:00 PM |
+| April       | Saturday, 26th    | 1:00 PM - 3:00 PM |
+| May         | Saturday, 24th    | 1:00 PM - 3:00 PM |
+| June        | Saturday, 28th    | 1:00 PM - 3:00 PM |
+| July        | Saturday, 26th    | 1:00 PM - 3:00 PM |
+| September   | Saturday, 27th    | 1:00 PM - 3:00 PM |
+| October     | Saturday, 25th    | 1:00 PM - 3:00 PM |
+| November    | Saturday, 22nd    | 1:00 PM - 3:00 PM |
+
+There is no café in January, August or December.
+{:.note title="Please Note"}
 
 ## Staying Updated
 
