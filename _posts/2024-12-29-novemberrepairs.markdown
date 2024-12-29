@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "November's Repair Café: Closing 2024 with Community Spirit"
-date: 2024-12-29 12:00:00 +0000
+date: 2024-12-29 10:00:00 +0000
 categories: publicity, photos, year-end
 ---
 
