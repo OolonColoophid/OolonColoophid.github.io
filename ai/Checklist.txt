@@ -1,5 +1,10 @@
 # Workflow
 
+Note: You can use the automated script create_blog_post.sh to handle this process.
+To use it: ./create_blog_post.sh "path/to/planning_document.txt"
+
+Manual steps if not using the script:
+
 0. Create a file like "February 2024 repair cafe.txt" and add picture assets.
 
 1. Run aider in the root.
