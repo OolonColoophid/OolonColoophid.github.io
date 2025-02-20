@@ -6,7 +6,7 @@ This contains filenames and notes - where possible - for particular repairs. The
 
 The repair cafe took place 1 Feb, 2025.
 
-Files are located in assets/febRepairs.
+Files are located in assets/febRepairs. Include all the photos.
 
 ## Detail
 
