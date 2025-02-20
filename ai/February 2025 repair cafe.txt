@@ -1,0 +1,20 @@
+# February blog post planning document
+
+## Overview
+
+This contains filenames and notes - where possible - for particular repairs. The information here can be used to make a blog post.
+
+The repair cafe took place 1 Feb, 2025.
+
+Files are located in assets/febRepairs.
+
+## Detail
+
+custom_electric_sign_fixed.jpeg - for this one, we found a break in the circuit and soldered a new connection
+lighthouse_ornament_not_fixed.jpegmacbook_taken_for_recycling.jpegmantelpiece_clock_not_repaired.jpegour_toy_swap_table.jpeg - not a repair, just a nice picture of our toy swap table!portable_heater_repaired.jpegportable_writing_desk_1_fixed.jpegportable_writing_desk2_fixed.jpegrucksack_repaired.jpeg
+set_of_lights_repaired.jpeg - for this we removed the French plug
+steam_iron_not_fixed.jpegtea_urn_not_fixed.jpegtoaster_repaired.jpegwooden_rocking_chair_repaired.jpeg - This needed glue and clamping.
+
+We also fixed a doll's head by using a wood-to-wood dowel to connect the head to the body. (No picture available for this one)
+
+We also tried to fix a heated greenhouse propagator but couldn't - the body was completely glued so we couldn't repair it. (No picture available for this one.)
