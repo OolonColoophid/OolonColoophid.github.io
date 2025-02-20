@@ -1,6 +1,6 @@
 # Workflow
 
-0. Create a file like "February 2024 repair cafe.txt"
+0. Create a file like "February 2024 repair cafe.txt" and add picture assets.
 
 1. Run aider in the root.
 
@@ -9,7 +9,7 @@
 ^-- update this example
 "
 
-4. "
+3. "
 /architect I'd like you to provide me with a new blog article that updates readers on our last repair cafe.
 
 I've given you an example from March 2024. Please follow this template fairly closely. Obviously any dates and items repaired will be different in the new post that you will write for me. Again, don't make any changes yet.
@@ -19,7 +19,7 @@ I've just given you access to a planning document. Use this to create a detailed
 There's no need to add the files themselves to the chat (you already have references to their filenames).
 "
 
-7. "
+4. "
 I've reviewed the planning document. Please now create the blog post and place it with the other blog posts. Remember that the publication date should be today, although the date of the repair cafe will be in the past.
 "
 
