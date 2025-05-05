@@ -23,10 +23,6 @@ This electric hedge trimmer is ready for action after a successful repair.
 Working on the inner components of a classic slide projector.
 {:.figcaption}
 
-![Projector Working](/assets/aprilAgain/projectorSuccessfullyProjecting.jpeg){:.lead width="800" height="600" loading="lazy"}
-Success! The projector is working again, bringing old slides back to life.
-{:.figcaption}
-
 ![Textile Repairs](/assets/aprilAgain/textileRepairs.JPG){:.lead width="800" height="600" loading="lazy"}
 Our textile team was busy with multiple clothing alterations, including shortening jeans and trousers.
 {:.figcaption}
