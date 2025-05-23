@@ -30,6 +30,10 @@ url: "https://www.tregonyrepaircafe.org" # the base hostname & protocol for your
 # github_username:  jekyll
 theme_color: rgb(0,160,176)
 accent_image: /sidebar-lordsMeadow.jpeg
+
+# Custom favicon configuration
+favicon: /assets/favicon/coffee_spanner_favicon_256x256.png
+apple_touch_icon: /assets/favicon/coffee_spanner_favicon_256x256.png
   
 menu:
   - title: Blog
