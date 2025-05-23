@@ -50,6 +50,8 @@ Our website template includes everything you need to create a professional onlin
 
 3. **Fork or clone the repository** to create your own version
 
+**Note**: This project is licensed under GPL-3.0, which means any modifications or derivative works must also be open source under the same license. This ensures the repair café community continues to benefit from shared improvements!
+
 4. **Customize with your details**:
    - Update café name, location, and contact information
    - Add your own photos and event details

@@ -2,7 +2,7 @@
 
 [![Jekyll](https://img.shields.io/badge/Jekyll-4.0+-green.svg)](https://jekyllrb.com/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue.svg)](https://pages.github.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A community-focused website for the Tregony Repair Café, built with Jekyll and the Hydejack theme. This site showcases repair events, volunteer information, and provides resources for visitors interested in sustainable repair practices.
 
@@ -208,7 +208,9 @@ Please feel free to:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+This project uses the [Hydejack Jekyll theme](https://hydejack.com/) which is licensed under GPL-3.0. As required by the GPL-3.0 license, this entire project must also be licensed under GPL-3.0.
 
 ## 🙏 Acknowledgments
 
