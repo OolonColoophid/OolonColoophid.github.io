@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Supporting Our Repair Café: Every Donation Makes a Difference"
+title: "Donate Via This Site"
 date: 2025-05-23 09:00:00 +0000
 categories: publicity donations
 ---

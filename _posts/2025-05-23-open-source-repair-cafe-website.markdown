@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our Website is Open Source - Perfect for Your Repair Café!"
+title: "Copy Our Website"
 date: 2025-05-23 10:00:00 +0000
 categories: community open-source
 ---
