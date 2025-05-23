@@ -32,8 +32,8 @@ theme_color: rgb(0,160,176)
 accent_image: /sidebar-lordsMeadow.jpeg
 
 # Custom favicon configuration
-favicon: /assets/favicon/coffee_spanner_favicon_256x256.png
-apple_touch_icon: /assets/favicon/coffee_spanner_favicon_256x256.png
+favicon: /assets/favicon/favicon.ico
+apple_touch_icon: /assets/favicon/apple-touch-icon.png
   
 menu:
   - title: Blog
