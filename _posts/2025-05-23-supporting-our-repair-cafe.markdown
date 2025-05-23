@@ -5,7 +5,7 @@ date: 2025-05-23 15:00:00 +0000
 categories: publicity donations
 ---
 
-We're thrilled to announce that we now have an easy way for our community to support the Tregony Repair Café through donations! While our repair café has always operated on a "pay what you can" basis, donations help us keep this wonderful community initiative running and growing.
+We're thrilled to announce that we now have an easy way for our community to support the Tregony Repair Café through donations! While our repair café has always operated on a "pay what you can" basis, donations help us keep this community initiative running and growing.
 
 ## How Your Support Helps
 
