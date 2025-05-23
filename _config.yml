@@ -42,6 +42,8 @@ menu:
     url: /venue/
   - title: Mailing List Sign-Up
     url: /mailingListSignUp/
+  - title: Donate Now
+    url: /donate/
   - title: Support
     url: /support/
   - title: Feedback
