@@ -30,7 +30,7 @@ permalink: /registration/
   </div>
 
   <div id="emailCopyDiv" style="margin-bottom: 20px; display: none;">
-    <input type="checkbox" id="emailCopy" name="_cc" style="margin-right: 8px;">
+    <input type="checkbox" id="emailCopy" style="margin-right: 8px;">
     <label for="emailCopy" style="font-weight: bold;">Send me a copy of this registration</label>
     <input type="hidden" id="ccEmail" name="_cc" value="">
   </div>
