@@ -40,6 +40,8 @@ menu:
     url: /allPosts/
   - title: Café Times
     url: /cafeTimes/
+  - title: Registration
+    url: /registration/
   - title: Volunteers
     url: /volunteers/
   - title: Venue

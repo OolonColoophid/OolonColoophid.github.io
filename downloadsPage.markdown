@@ -30,7 +30,7 @@ Here you will find documentation for download, such as flyers and other useful p
 
 - [Disclaimer](/downloads/disclaimer.pdf) [PDF] The disclaimer or 'house rules' sets expections for the customers
 
-- [Registration](https://bit.ly/regTRC) This registration form should be completed before the repair
+- [Registration](/registration/) Online registration form - complete before your visit for faster service
 
 - [Registration](/downloads/registration.pdf) [PDF] The offline version of the registration form 
 
