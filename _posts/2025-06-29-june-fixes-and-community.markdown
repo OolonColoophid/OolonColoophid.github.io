@@ -41,7 +41,7 @@ Precision stitching restored this cushion zip to perfect working order.
 
 Other textile victories included a boiler suit receiving a new zip and general repairs, trouser hems being restitched, and jogging shorts getting pocket reinforcement for extended wear.
 
-Behind the scenes, several items were completed without photos: a blanket box had its split lid repaired, a candle box received complete renovation with splits fixed and a new leather hinge installed, and a stainless steel drawer set had its broken runner fixed with careful pliers work.
+Several other items were looked at: a blanket box had its split lid repaired, a candle box received complete renovation with splits fixed and a new leather hinge installed, and a stainless steel drawer set had its broken runner fixed with careful pliers work.
 
 ## Maritime Success
 
