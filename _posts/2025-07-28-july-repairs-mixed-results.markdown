@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "July Repairs: Mixed Results and Community Spirit"
+title: "Community Spirit"
 date: 2025-07-26 14:00:00 +0000
 categories: publicity photos
 ---
