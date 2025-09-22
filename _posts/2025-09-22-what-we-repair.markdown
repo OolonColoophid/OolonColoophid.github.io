@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What We Repair: A Year and a Half of Community Fixes"
-date: 2025-09-22 17:00:00 +0000
+date: 2025-09-22 12:00:00 +0000
 categories: publicity
 ---
 
@@ -29,7 +29,7 @@ We thought it would be interesting to look back through all our repair sessions 
 
 **9. Picture Frames & Artwork** remind us that some things are worth preserving for their sentimental value. We've carefully restored family photos and cherished artwork.
 
-**10. Kitchen Appliances** round out our top ten - coffee grinders, liquidisers, sandwich toasters, and even an ice cream machine have all found their way back to working order.
+**10. The Unexpected** rounds out our top ten - from a tumble dryer that needed our largest toolbox to a vintage 1947 teddy bear requiring delicate surgery, we never know what wonderful surprises will walk through our doors!
 
 ![View of volunteers and visitors at work](/assets/aprilAgain/viewOfTheCrowd.jpeg){:.lead width="800" height="600" loading="lazy"}
 The variety never ceases to amaze us.
