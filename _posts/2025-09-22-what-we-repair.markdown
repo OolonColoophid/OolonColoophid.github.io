@@ -31,8 +31,8 @@ We thought it would be interesting to look back through all our repair sessions 
 
 **10. The Unexpected** rounds out our top ten - from a tumble dryer that needed our largest toolbox to a vintage 1947 teddy bear requiring delicate surgery, we never know what wonderful surprises will walk through our doors!
 
-![View of volunteers and visitors at work](/assets/aprilAgain/viewOfTheCrowd.jpeg){:.lead width="800" height="600" loading="lazy"}
-The variety never ceases to amaze us.
+![Vintage 1947 teddy bear after repair](/assets/novemberRepairs/teddyBearAfterWaistCoat.jpeg){:.lead width="800" height="600" loading="lazy"}
+This 1947 teddy bear exemplifies the treasured items that find their way to our repair café.
 {:.figcaption}
 
 ## More Than Just Repairs

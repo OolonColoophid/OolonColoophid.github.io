@@ -37,7 +37,7 @@ categories: publicity photos
 ```
 
 ### 3. Content Guidelines
-- **Publication date**: Use today's date (when writing the post)
+- **Publication date**: Use today's date but backdate by a few hours (e.g., if it's 3pm, use 9am) to ensure posts appear immediately and avoid timezone issues
 - **Event date**: Reference the actual repair café date in content
 - **Images**: Use Jekyll image syntax with proper loading and sizing:
   ```markdown
