@@ -53,7 +53,7 @@ permalink: /registration/
 
   <div style="margin-bottom: 20px;">
     <label for="date" style="display: block; margin-bottom: 5px; font-weight: bold;">Date:</label>
-    <input type="date" id="date" name="date" required readonly style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; background-color: #f9f9f9;">
+    <input type="date" id="date" name="date" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
   </div>
 
   <div style="text-align: center;">
