@@ -4,34 +4,34 @@ title: Registration
 permalink: /registration/
 ---
 
-**Registration is typically completed during your visit** - our volunteers will help you fill this out when you arrive. However, you're welcome to complete it ahead of time if you prefer. This helps us prepare for your visit and improve our services.
+**Registration can be completed during the visit or in advance.** This form helps us prepare for repair café visits and improve our services.
 
-**Please note:** Registration does not guarantee that someone will be available to repair your specific item. Repairs are offered on a volunteer basis and depend on the skills and time available on the day.
+**Please note:** Registration does not guarantee that someone will be available to repair the specific item. Repairs are offered on a volunteer basis and depend on the skills and time available on the day.
 
 <form action="https://formspree.io/f/xvgrgdbk" method="POST" id="registrationForm" style="max-width: 600px; margin: 0 auto;">
   <div style="margin-bottom: 20px;">
-    <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Name:</label>
-    <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+    <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Customer name:</label>
+    <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="Enter customer's full name">
   </div>
 
   <div style="margin-bottom: 20px;">
     <label for="postcode" style="display: block; margin-bottom: 5px; font-weight: bold;">Postcode:</label>
-    <input type="text" id="postcode" name="postcode" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+    <input type="text" id="postcode" name="postcode" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="e.g. TR2 5TG">
   </div>
 
   <div style="margin-bottom: 20px;">
     <label for="phone" style="display: block; margin-bottom: 5px; font-weight: bold;">Phone number (optional):</label>
-    <input type="tel" id="phone" name="phone" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+    <input type="tel" id="phone" name="phone" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="e.g. 01872 530123">
   </div>
 
   <div style="margin-bottom: 20px;">
     <label for="email" style="display: block; margin-bottom: 5px; font-weight: bold;">Email address (optional):</label>
-    <input type="email" id="email" name="email" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+    <input type="email" id="email" name="email" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="e.g. name@example.com">
   </div>
 
   <div id="emailCopyDiv" style="margin-bottom: 20px; display: none;">
     <input type="checkbox" id="emailCopy" style="margin-right: 8px;">
-    <label for="emailCopy" style="font-weight: bold;">Send me a copy of this registration</label>
+    <label for="emailCopy" style="font-weight: bold;">Send a copy of this registration to the email address above</label>
     <input type="hidden" id="ccEmail" name="_cc" value="">
   </div>
 
@@ -39,15 +39,15 @@ permalink: /registration/
     <label for="item" style="display: block; margin-bottom: 5px; font-weight: bold;">Item for repair:</label>
     <textarea id="item" name="item" required rows="4" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="Please name the item and give some details about the fault"></textarea>
     <p style="font-size: 0.9em; color: #666; margin-top: 5px; font-style: italic;">
-      We will only use this information for the purposes of improving our services. We may also use this information to contact you about future Tregony Repair Café events and activities.
+      This information will only be used for improving our services. We may also use this information to contact the item owner about future Tregony Repair Café events and activities.
     </p>
   </div>
 
   <div style="margin-bottom: 20px;">
-    <label for="signature" style="display: block; margin-bottom: 5px; font-weight: bold;">Customer's E-Signature:</label>
-    <input type="text" id="signature" name="signature" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="Type your full name as your electronic signature">
+    <label for="signature" style="display: block; margin-bottom: 5px; font-weight: bold;">E-Signature:</label>
+    <input type="text" id="signature" name="signature" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="Type the item owner's full name as their electronic signature">
     <p style="font-size: 0.9em; color: #666; margin-top: 5px; font-style: italic;">
-      By signing, you agree to follow the repair café <a href="/downloads/disclaimer.pdf" target="_blank">house rules</a> and understand that repairs are attempted at your own risk.
+      By signing, the item owner agrees to follow the repair café <a href="/downloads/disclaimer.pdf" target="_blank">house rules</a> and understands that repairs are attempted at their own risk.
     </p>
   </div>
 
