@@ -10,8 +10,8 @@ permalink: /registration/
 
 <form action="https://formspree.io/f/xvgrgdbk" method="POST" id="registrationForm" style="max-width: 600px; margin: 0 auto;">
   <div style="margin-bottom: 20px;">
-    <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Customer name:</label>
-    <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="Enter customer's full name">
+    <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Bringer name:</label>
+    <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;" placeholder="Enter bringer's full name">
   </div>
 
   <div style="margin-bottom: 20px;">
