@@ -38,7 +38,7 @@ Bringing cherished furniture back to life.
 Careful textile repairs mean favourite clothes can be worn again.
 {:.figcaption}
 
-![Coffee pot repair](/assets/octRepairs2025/coffee_pot_fixed.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Coffee pot repair](/assets/septRepairs2025/coffee_pot_fixed.jpeg){:.lead width="800" height="600" loading="lazy"}
 From morning coffee to evening tea, we fix the essentials.
 {:.figcaption}
 
@@ -50,7 +50,7 @@ Electronics brought back to working order.
 Household appliances get a new lease on life.
 {:.figcaption}
 
-![Pasta roller repair](/assets/octRepairs2025/pasta_roller_fixed.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Pasta roller repair](/assets/septRepairs2025/pasta_roller_fixed.jpeg){:.lead width="800" height="600" loading="lazy"}
 Kitchen tools restored for homemade meals.
 {:.figcaption}
 
@@ -74,6 +74,6 @@ Bringing light back to homes, one repair at a time.
 The welcoming atmosphere of our repair café in full swing.
 {:.figcaption}
 
-![Refreshments](/assets/octRepairs2025/selection_of_biscuits_and_cakes.jpeg){:.lead width="800" height="600" loading="lazy"}
+![Refreshments](/assets/septRepairs2025/selection_of_biscuits_and_cakes.jpeg){:.lead width="800" height="600" loading="lazy"}
 Delicious refreshments to enjoy while your items are being repaired.
 {:.figcaption}
