@@ -20,11 +20,7 @@ This is a Jekyll-based website for the Tregony Repair Café, a community initiat
 
 ## Blog Post Creation Process
 
-### 1. Planning Document Review
-- Check `ai/` directory for planning documents (e.g., "February 2025 repair cafe.txt")
-- Planning documents contain event details, repairs attempted, success rates, photos taken
-
-### 2. Blog Post Structure
+### 1. Blog Post Structure
 Follow the format of recent posts (see `_posts/2025-06-02-may-surprises.markdown` as example):
 
 ```yaml
@@ -36,7 +32,7 @@ categories: publicity photos
 ---
 ```
 
-### 3. Content Guidelines
+### 2. Content Guidelines
 - **Publication date**: Use today's date but backdate by a few hours (e.g., if it's 3pm, use 9am) to ensure posts appear immediately and avoid timezone issues
 - **Event date**: Reference the actual repair café date in content
 - **Images**: Use Jekyll image syntax with proper loading and sizing:
