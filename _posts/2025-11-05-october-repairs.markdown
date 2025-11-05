@@ -5,7 +5,7 @@ date: 2025-11-05 09:00:00 +0000
 categories: publicity photos
 ---
 
-Our October 25th repair café was the final event before our winter break, with successful repairs and positive visitor feedback. From trousers altered for a wedding to computers upgraded for personal and community use, the day demonstrated what we do: keeping items in use and building community connections.
+Our October 25th repair café saw successful repairs and positive visitor feedback. From trousers altered for a wedding to computers upgraded for personal and community use, the day demonstrated what we do: keeping items in use and building community connections.
 
 ## Repairs That Made a Difference
 
@@ -71,10 +71,8 @@ Sometimes the diagnosis requires very close attention!
 
 An Xbox controller had battery damage beyond repair, and several mobile phones from a deceased owner couldn't be wiped without passcodes - a reminder of the digital challenges with inherited devices.
 
-## See You in February!
+## Next Event
 
-This was our final repair café of 2025. We're taking a break over the winter months and will return in **February 2026**.
+Our next repair café is on **November 22nd, 1-3pm**. After that, we'll be taking a break over the winter months and will return in **February 2026**.
 
-Check our website and social media for the exact date of our February return. In the meantime, hold onto those items that need fixing. Thank you to all volunteers and visitors who made 2025 a successful year for the Tregony Repair Café.
-
-See you in February!
+Check our website and social media for updates. Thank you to all volunteers and visitors who continue to make the Tregony Repair Café a success.
