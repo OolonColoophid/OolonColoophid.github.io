@@ -33,7 +33,7 @@ categories: publicity photos
 ```
 
 ### 2. Content Guidelines
-- **Publication date**: Use today's date but backdate by a few hours (e.g., if it's 3pm, use 9am) to ensure posts appear immediately and avoid timezone issues
+- **Publication date**: Use today's date but backdate by a few hours (e.g., if it's 3pm, use 9am) to ensure posts appear immediately and avoid timezone issues. If the date seems to be "in the future" and posts don't appear, backdate to the previous day.
 - **Event date**: Reference the actual repair café date in content
 - **Images**: Use Jekyll image syntax with proper loading and sizing:
   ```markdown
@@ -44,10 +44,25 @@ categories: publicity photos
 - **Structure**: Opening paragraph, repairs section with images, closing with next event date
 - **Tone**: Friendly, community-focused, celebratory of both successes and attempts
 
+### 3. Walkthrough Posts
+Walkthrough posts are detailed, step-by-step repair guides written by volunteers. These differ from standard event posts:
+
+- **Category**: Always include "walkthrough" in the categories (e.g., `categories: publicity photos walkthrough`)
+- **Attribution**: Start with an intro paragraph crediting the volunteer author, using the `{:.lead}` class for emphasis:
+  ```markdown
+  The post below was written by [volunteer name and description]. This is a walkthrough of how [they] did a tricky repair - we hope it gives a sense of the work we do, and what, if you're brave, you can do yourself!
+  {:.lead}
+  ```
+- **Content preservation**: When converting from source documents (Word, etc.), preserve the technical language and step-by-step details with minimal changes. The author's voice and technical precision are important.
+- **Image naming**: Use descriptive names that match the repair steps (e.g., `robinDamaged.jpeg`, `waddingPacked.jpeg`, `robinRepaired.jpeg`)
+- **Educational focus**: These posts teach repair techniques, so maintain clarity about tools, materials, and methods used
+- **Example**: See `_posts/2025-11-20-mending-the-robin.markdown` for a walkthrough post structure
+
 ### 4. Asset Management
 - Images are organized in `assets/` by event (e.g., `assets/maySurprises/`)
 - Always reference images with full path: `/assets/eventFolder/filename.jpeg`
 - Common image types: repair photos, group shots, toy swap table, before/after comparisons
+- For walkthrough posts: Use descriptive step-based naming for images
 
 ### 5. File Naming
 - Blog posts: `YYYY-MM-DD-descriptive-title.markdown`
@@ -55,9 +70,9 @@ categories: publicity photos
 
 ## Important Restrictions
 - **NEVER modify cafeTimes.markdown** - this file is updated manually by humans only
-- **Follow existing post categories**: Use "publicity photos" or "repaircafe" categories
+- **Follow existing post categories**: Use "publicity photos", "repaircafe", or "walkthrough" categories
 - **Image optimization**: All images should have appropriate alt text and lazy loading
-- **Consistent dating**: Publication date is when post is written, event date is referenced in content
+- **Consistent dating**: Publication date is when post is written, event date is referenced in content. Jekyll doesn't show future posts by default - if posts don't appear, backdate by a day.
 
 ## Site Features
 - **Donation system**: PayPal QR code integration

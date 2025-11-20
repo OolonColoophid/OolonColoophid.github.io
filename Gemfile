@@ -21,7 +21,7 @@ group :jekyll_plugins do
 end
 
 # IH - This is our pro Hydejack theme, installed via instructions from here: https://hydejack.com/docs/install/#existing-sites
-gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
+# gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"  # Commented out - using remote theme instead
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
