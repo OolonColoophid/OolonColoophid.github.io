@@ -65,12 +65,6 @@ The book and puzzle swap table continues to be popular, giving our community a w
 Books and puzzles available for the community to swap and share.
 {:.figcaption}
 
-Our repair bell helps make everyone aware of a successful repair!
-
-![Repair bell demonstration](/assets/novRepairs2025/alisa_demonstrates_ringing_repair_bell.jpeg){:.lead width="800" height="600" loading="lazy"}
-Demonstrating the repair bell
-{:.figcaption}
-
 ## Merry Christmas and See You in 2026
 
 Thank you to all our volunteers and visitors. We're taking our usual winter break and will return in the new year!
