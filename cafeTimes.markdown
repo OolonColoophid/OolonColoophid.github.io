@@ -6,20 +6,6 @@ permalink: /cafeTimes/
 
 Join us at the Tregony Village Hall for our regular repair café sessions. Here's our schedule for the year, where you can bring in your items for repair, learn new skills, and enjoy a sense of community.
 
-## 2025 Schedule
-
-| Month       | Day               | Time              |
-|-------------|-------------------|-------------------|
-| February    | Saturday, 1st     | 1:00 PM - 3:00 PM |
-| March       | Saturday, 22nd    | 1:00 PM - 3:00 PM |
-| April       | Saturday, 26th    | 1:00 PM - 3:00 PM |
-| May         | Saturday, 24th    | 1:00 PM - 3:00 PM |
-| June        | Saturday, 28th    | 1:00 PM - 3:00 PM |
-| July        | Saturday, 26th    | 1:00 PM - 3:00 PM |
-| September   | Saturday, 27th    | 1:00 PM - 3:00 PM |
-| October     | Saturday, 25th    | 1:00 PM - 3:00 PM |
-| November    | Saturday, 22nd    | 1:00 PM - 3:00 PM |
-
 ## 2026 Schedule
 
 | Month       | Day               | Time              |
