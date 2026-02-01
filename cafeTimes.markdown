@@ -18,7 +18,7 @@ Join us at the Tregony Village Hall for our regular repair café sessions. Here'
 | July        | Saturday, 25th    | 1:00 PM - 3:00 PM |
 | September   | Saturday, 26th    | 1:00 PM - 3:00 PM |
 | October     | Saturday, 24th    | 1:00 PM - 3:00 PM |
-| November    | Saturday, 28th    | 1:00 PM - 3:00 PM |
+| November    | Saturday, 21st    | 1:00 PM - 3:00 PM |
 
 There is no café in January, August or December.
 {:.note title="Please Note"}
