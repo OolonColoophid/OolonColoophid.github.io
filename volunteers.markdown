@@ -15,6 +15,10 @@ If you like, you can simply [sign up to our mailing list]({% link mailingListSig
 - **Meet the Community**: Connect with like-minded individuals and be part of a positive movement.
 - **Make a Difference**: Contribute to sustainability and waste reduction in our community.
 
+## For Existing Volunteers
+
+Already part of our team? Access our [**Volunteer Inventory**](https://tregony-rc-inventory.vercel.app){:target="_blank"} to see what tools and supplies we have available. You'll need the password (ask Ian if you don't have it).
+
 ## Volunteer Roles
 
 - **Repair Experts**: If you have skills in electronics, woodworking, sewing, or any other repairable items, we need you!
