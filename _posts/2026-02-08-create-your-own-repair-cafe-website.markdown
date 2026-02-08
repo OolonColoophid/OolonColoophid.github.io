@@ -21,6 +21,21 @@ Our website template includes:
 - Privacy policy template
 - Easy customisation of colours and branding
 
+## Downloadable Resources
+
+Beyond the website itself, we've made available a range of operational documents you can adapt for your own café:
+
+- **Registration forms** — Both online and printable PDF versions
+- **Disclaimer / House Rules** — Sets expectations for customers
+- **Risk Assessment** — Required for public liability insurance
+- **Record of Repair** — For repairers to document each fix
+- **Feedback Form** — Collect useful information about the repair experience
+- **Operational Checklist** — Regular tasks and when to do them
+- **Table Numbers & Allocation Queue** — Keep things organised on the day
+- **Flyer Template** — Promotional material to get the word out
+
+You'll find all of these on our [Downloads](/downloadsPage/) page. Feel free to use them as starting points for your own documentation.
+
 ## Prerequisites
 
 Before you begin, you'll need:
