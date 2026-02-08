@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create Your Own Repair Café Website"
-date: 2026-02-08 12:00:00 +0000
+date: 2026-02-08 11:00:00 +0000
 categories: news guide
 author: Ian Hocking
 ---
