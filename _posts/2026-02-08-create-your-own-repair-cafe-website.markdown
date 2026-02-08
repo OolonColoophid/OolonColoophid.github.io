@@ -8,6 +8,8 @@ author: Ian Hocking
 
 Would you like to create a website for your own Repair Café? Good news — you can clone our site and have your own up and running in under an hour, completely free.
 
+We've put in the hard work so you don't have to. This is an off-the-shelf solution: a complete, ready-to-go website with all the pages, forms, and documentation a Repair Café needs. Just add your own details and you're ready to launch.
+
 This guide walks you through the process step by step. No coding experience is required, though you'll need to be comfortable editing text files and following instructions carefully.
 
 ## What You'll Get
@@ -23,7 +25,7 @@ Our website template includes:
 
 ## Downloadable Resources
 
-Beyond the website itself, we've made available a range of operational documents you can adapt for your own café:
+Starting a Repair Café involves a lot of paperwork — registration forms, liability disclaimers, risk assessments, and more. We've already created all of this, so you don't have to start from scratch. Just download, adapt with your details, and you're ready to go:
 
 - **Registration forms** — Both online and printable PDF versions
 - **Disclaimer / House Rules** — Sets expectations for customers
