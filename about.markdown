@@ -18,7 +18,7 @@ Our mission is to bring the local community together to repair broken items, sha
 
 ## Get Involved
 
-Interested in volunteering or just want to learn more? Visit our [Volunteer](/volunteer/) page or contact us at [contact@tregonyrepaircafe.org](mailto:contact@tregonyrepaircafe.org).
+Interested in volunteering or just want to learn more? Visit our [Volunteer](/volunteers/) page or contact us at [contact@tregonyrepaircafe.org](mailto:contact@tregonyrepaircafe.org).
 
 ---
 
