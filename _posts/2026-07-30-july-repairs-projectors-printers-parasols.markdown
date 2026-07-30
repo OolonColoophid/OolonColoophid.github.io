@@ -13,9 +13,9 @@ There is no café in August, so this was our last session before the September b
 
 ## What came through the door
 
-Among the items brought in this month were a printer, slide projector, radiator, vacuum cleaner, food mixer, strimmer, tablet, dashcam, parasol, clocks, lamps, bags, dresses, tops, trousers and other textile repairs.
+Among the items brought in this month were a printer, slide projector, radiator, vacuum cleaner, food mixer, strimmer, tablet, dashcam, parasol, chair, china dish, pan lid, clocks, lamps, bags, dresses, tops, trousers and other textile repairs.
 
-Some items were fixed on the day. A printer was repaired, and an oil-filled radiator was brought back into use after work on a thermal cutout. There was also useful progress on a parasol repair, with careful gluing and clamping to give it another chance of service.
+Some items were fixed on the day. A printer was repaired, and an oil-filled radiator was brought back into use after work on a thermal cutout. A chair was made sturdy again with a replacement stretcher and re-glued joints, a china dish had a broken piece glued back into place, and a pan lid had its knob reattached. There was also useful progress on a parasol repair, with careful gluing and clamping to give it another chance of service.
 
 ![A parasol being repaired and glued at Tregony Repair Café](/assets/julyRepairs2026/parasol-being-glued.jpeg){:.lead width="900" height="1200" loading="lazy"}
 
