@@ -20,8 +20,25 @@ Join us at the Tregony Village Hall for our regular repair café sessions. Here'
 | October     | Saturday, 24th    | 1:00 PM - 3:00 PM |
 | November    | Saturday, 21st    | 1:00 PM - 3:00 PM |
 
-There is no café in January, August or December.
+In 2026, there is no café in January, August or December.
 {:.note title="Please Note"}
+
+## 2027 Schedule
+
+All 2027 sessions take place in the Main Hall at Tregony Village Hall.
+
+| Month       | Day               | Time              |
+|-------------|-------------------|-------------------|
+| January     | Saturday, 23rd    | 1:00 PM - 3:00 PM |
+| February    | Saturday, 27th    | 1:00 PM - 3:00 PM |
+| March       | Saturday, 27th    | 1:00 PM - 3:00 PM |
+| April       | Saturday, 24th    | 1:00 PM - 3:00 PM |
+| May         | Saturday, 22nd    | 1:00 PM - 3:00 PM |
+| June        | Saturday, 26th    | 1:00 PM - 3:00 PM |
+| July        | Saturday, 24th    | 1:00 PM - 3:00 PM |
+| September   | Saturday, 25th    | 1:00 PM - 3:00 PM |
+| October     | Saturday, 23rd    | 1:00 PM - 3:00 PM |
+| November    | Saturday, 20th    | 1:00 PM - 3:00 PM |
 
 ## Staying Updated
 
