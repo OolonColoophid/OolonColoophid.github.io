@@ -37,6 +37,8 @@ We also successfully demonstrated Tregony Village Hall’s A3 printer-scanner, p
 
 The book swap filled the stage with books, puzzles and DVDs to browse.
 
+We were also pleased to welcome two new volunteers: one will lend a hand generally, and the other will help with setting up and organisation.
+
 Thanks to everyone who brought something in, and to the volunteers who helped with repairs, refreshments and welcoming visitors.
 
 We’ll be back on **Saturday 24th October, 1–3pm, at Tregony Village Hall**. If you have something that needs fixing, bring it along. We can’t promise a repair, but we’ll take a look.
