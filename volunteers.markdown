@@ -8,6 +8,8 @@ We're always looking for enthusiastic individuals who are passionate about repai
 
 If you like, you can simply [sign up to our mailing list]({% link mailingListSignUp.markdown %}).
 
+[View our volunteer roster for October and November 2026]({% link volunteer-roster.html %}). To be added to the roster, email [contact@tregonyrepaircafe.org](mailto:contact@tregonyrepaircafe.org) or let us know via our WhatsApp group.
+
 ## Why Volunteer?
 
 - **Share Your Skills**: Use your repair skills to help others and pass on your knowledge.
