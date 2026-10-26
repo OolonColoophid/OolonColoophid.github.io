@@ -30,6 +30,8 @@ We're also happy to accept small electrical items, batteries, and bulbs for recy
 
 Together, let's cherish the stories behind our belongings and contribute to a more sustainable world. We can't wait to welcome you!
 
+{% include feedback-banner.html %}
+
 ## A Glimpse of Our Repair Café in Action
 
 ![Wooden rocking chair being repaired](/assets/febRepairs/wooden_rocking_chair_repaired.jpeg){:.lead width="800" height="600" loading="lazy"}
