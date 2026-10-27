@@ -3,8 +3,6 @@
   #visitor-feedback { display: flex; align-items: center; gap: 24px; width: 100%; min-width: 0; margin: 32px 0; padding: 26px 0 26px 28px; color: #243638; background: #ecf2f1; border-top: 2px solid #006b76; border-bottom: 1px solid #cddbd8; font-family: Arial, Helvetica, sans-serif; }
   #visitor-feedback .feedback-intro { flex: 0 0 150px; }
   #visitor-feedback h2 { margin: 0; padding: 0; border: 0; color: #24565a; font: 400 25px/1.2 Georgia, serif; letter-spacing: normal; }
-  #visitor-feedback .feedback-toggle { margin: 14px 0 0; padding: 6px 10px; border: 1px solid #516462; border-radius: 3px; background: transparent; color: #24565a; font: 14px/1.5 Arial, sans-serif; cursor: pointer; }
-  #visitor-feedback .feedback-toggle[hidden] { display: none; }
   #visitor-feedback .feedback-help { margin: 12px 0 0; color: #516462; font: 12px/1.5 Arial, sans-serif; }
   #visitor-feedback .feedback-window { flex: 1 1 0%; min-width: 0; overflow-x: auto; overscroll-behavior-x: contain; }
   #visitor-feedback .feedback-track { display: flex; width: max-content; }
@@ -14,17 +12,6 @@
   #visitor-feedback blockquote { margin: 0; padding: 0; border: 0; background: none; color: #243638; font: 400 21px/1.4 Georgia, serif; }
   #visitor-feedback figcaption { margin-top: 10px; color: #516462; text-align: left; font: 13px/1.5 Arial, sans-serif; }
   #visitor-feedback :focus-visible { outline: 2px solid #006b76; outline-offset: -2px; }
-  #visitor-feedback .feedback-copy { display: none; }
-  @keyframes feedback-drift-right { from { transform: translateX(-50%); } to { transform: translateX(0); } }
-  @media (min-width: 701px) and (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
-    #visitor-feedback.is-enhanced .feedback-window { overflow: hidden; }
-    #visitor-feedback.is-enhanced .feedback-copy { display: flex; }
-    #visitor-feedback.is-enhanced .feedback-track { animation: feedback-drift-right 156s linear infinite; }
-    #visitor-feedback:hover .feedback-track, #visitor-feedback:focus-within .feedback-track, #visitor-feedback.is-paused .feedback-track { animation-play-state: paused; }
-    #visitor-feedback .feedback-window:focus { overflow-x: auto; }
-    #visitor-feedback .feedback-window:focus .feedback-track { animation: none; transform: none; }
-    #visitor-feedback .feedback-window:focus .feedback-copy { display: none; }
-  }
   @media (max-width: 700px) {
     #visitor-feedback { display: block; padding: 24px 0; }
     #visitor-feedback .feedback-intro { padding: 0 24px 20px; }
@@ -35,8 +22,7 @@
 <section id="visitor-feedback" aria-labelledby="visitor-feedback-heading">
   <div class="feedback-intro">
     <h2 id="visitor-feedback-heading">What people say</h2>
-    <button class="feedback-toggle" type="button" aria-controls="feedback-window" aria-pressed="false" hidden>Pause scrolling</button>
-    <p class="feedback-help" id="feedback-help">Scroll or swipe to read more.</p>
+    <p class="feedback-help" id="feedback-help">Scroll, swipe or use arrow keys to read more.</p>
   </div>
   <div class="feedback-window" id="feedback-window" tabindex="0" role="region" aria-label="Anonymous visitor feedback" aria-describedby="feedback-help">
     <div class="feedback-track">
@@ -51,33 +37,3 @@
     </div>
   </div>
 </section>
-<script>
-(function () {
-  var banner = document.getElementById('visitor-feedback');
-  if (!banner || banner.classList.contains('is-enhanced')) return;
-  var track = banner.querySelector('.feedback-track');
-  var copy = banner.querySelector('.feedback-list').cloneNode(true);
-  copy.classList.add('feedback-copy');
-  copy.setAttribute('aria-hidden', 'true');
-  copy.setAttribute('inert', '');
-  track.appendChild(copy);
-  var button = banner.querySelector('.feedback-toggle');
-  var help = banner.querySelector('.feedback-help');
-  var viewport = banner.querySelector('.feedback-window');
-  var motion = window.matchMedia('(min-width: 701px) and (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference)');
-  function updateMode() {
-    button.hidden = !motion.matches;
-    help.textContent = motion.matches ? 'Focus the quotes to scroll with arrow keys.' : 'Scroll or swipe to read more.';
-    viewport.scrollLeft = 0;
-  }
-  button.addEventListener('click', function () {
-    var paused = banner.classList.toggle('is-paused');
-    button.setAttribute('aria-pressed', String(paused));
-    button.textContent = paused ? 'Play scrolling' : 'Pause scrolling';
-  });
-  viewport.addEventListener('blur', function () { viewport.scrollLeft = 0; });
-  motion.addEventListener('change', updateMode);
-  banner.classList.add('is-enhanced');
-  updateMode();
-}());
-</script>
