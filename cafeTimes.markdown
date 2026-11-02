@@ -31,7 +31,7 @@ All 2027 sessions take place in the Main Hall at Tregony Village Hall.
 |-------------|-------------------|-------------------|
 | January     | Saturday, 23rd    | 1:00 PM - 3:00 PM |
 | February    | Saturday, 27th    | 1:00 PM - 3:00 PM |
-| March       | Saturday, 20th — **UPDATED (previously 27 March)** | 1:00 PM - 3:00 PM |
+| March       | Saturday, 20th<sup aria-describedby="march-date-note">*</sup> | 1:00 PM - 3:00 PM |
 | April       | Saturday, 24th    | 1:00 PM - 3:00 PM |
 | May         | Saturday, 22nd    | 1:00 PM - 3:00 PM |
 | June        | Saturday, 26th    | 1:00 PM - 3:00 PM |
@@ -39,6 +39,8 @@ All 2027 sessions take place in the Main Hall at Tregony Village Hall.
 | September   | Saturday, 25th    | 1:00 PM - 3:00 PM |
 | October     | Saturday, 23rd    | 1:00 PM - 3:00 PM |
 | November    | Saturday, 20th    | 1:00 PM - 3:00 PM |
+
+<p id="march-date-note" style="margin-top: -0.5rem; font-size: 0.875rem; line-height: 1.5;">* <strong>Updated:</strong> the March café has moved from 27 March to 20 March.</p>
 
 ## Staying Updated
 
