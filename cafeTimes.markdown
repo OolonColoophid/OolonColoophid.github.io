@@ -31,7 +31,7 @@ All 2027 sessions take place in the Main Hall at Tregony Village Hall.
 |-------------|-------------------|-------------------|
 | January     | Saturday, 23rd    | 1:00 PM - 3:00 PM |
 | February    | Saturday, 27th    | 1:00 PM - 3:00 PM |
-| March       | Saturday, 27th    | 1:00 PM - 3:00 PM |
+| March       | Saturday, 20 March 2027 — **UPDATED (previously 27 March)** | 1:00 PM - 3:00 PM |
 | April       | Saturday, 24th    | 1:00 PM - 3:00 PM |
 | May         | Saturday, 22nd    | 1:00 PM - 3:00 PM |
 | June        | Saturday, 26th    | 1:00 PM - 3:00 PM |
