@@ -13,6 +13,8 @@ The textile repairs included a patched jacket sleeve, new elastic in jersey shor
 
 Elsewhere, a pruning saw needed a replacement nut and bolt, and a kettle’s stuck lid was freed. Chair castors, a clock and a drill driver were repaired too. A bicycle had new brake pads fitted, and a necklace and earrings were repaired.
 
+![Bicycle repair and the book swap at Tregony Repair Café](/assets/oct2026/bicycle-repair-book-swap.jpeg)
+
 Not everything could be fixed. A VHS/DVD player, a radio from the 1940s, an SDS drill and a television remained unrepaired.
 
 ![Valves, wiring and a loudspeaker inside an open wooden radio cabinet](/assets/oct2026/radio-interior.jpeg)
